@@ -55,7 +55,9 @@ Default objective: improve empirical credibility, manuscript consistency, and re
 - Any new manuscript revision produced under `修改稿` must also be copied into the matching archive folder: `修改稿/v1修改稿留底` for `v1*` versions and `修改稿/v2修改稿留底` for `v2*` versions.
 - Archive filenames must stay short and use the pattern `<version-token>_<MMDD_HHMM>.<ext>`, for example `v1a_0419_0012.docx`.
 - Prefer one archive subfolder per version token (for example `修改稿/v1修改稿留底/v1a/`).
+- Before starting a new revision round, sync the local workspace from the configured GitHub remote if one is available.
 - After each completed revision task, update the local Git repository and push to the configured GitHub remote if one is available.
+- Use the existing sync scripts under `修改稿/scripts/` rather than ad hoc git command sequences when possible.
 
 ## AGENTS.md maintenance rule
 - Keep this file concise and durable.

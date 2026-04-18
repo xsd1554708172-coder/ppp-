@@ -35,6 +35,7 @@
 
 ## 每轮任务结束前必须做的事
 
+0. 开始新任务前，先同步 GitHub 远端最新内容到本地运行环境。
 1. 完成正文修改、数据修改、重跑或图表更新。
 2. 完成逐项核查，确保正文、表图、结果和说明一致。
 3. 将最终新文章复制到对应留底目录，并按规则命名。
@@ -49,6 +50,9 @@
   - `git add -A`
   - `git commit`
   - `git push`
+- 每次开始新任务前都要执行：
+  - `git fetch`
+  - `git pull --rebase`
 - 如果远端未配置或 GitHub 认证不可用，必须在说明文件里明确记录阻塞原因。
 
 ## 推荐脚本
@@ -57,6 +61,8 @@
   - `修改稿/scripts/archive_revision_output.py`
 - Git 同步脚本：
   - `修改稿/scripts/git_sync_workspace.ps1`
+- 远端拉取同步脚本：
+  - `修改稿/scripts/sync_from_github.ps1`
 - 一键收尾脚本：
   - `修改稿/scripts/finalize_revision_task.ps1`
 
