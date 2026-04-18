@@ -1,8 +1,8 @@
 ﻿{
     "project":  "ppp-paper-workspace",
     "signal_version":  1,
-    "signal_sequence":  2,
-    "last_pushed_at":  "2026-04-19T01:05:42+08:00",
+    "signal_sequence":  3,
+    "last_pushed_at":  "2026-04-19T01:14:28+08:00",
     "updated_by":  "陈楚玲@DESKTOP-G17F48D",
     "branch":  "main",
     "purpose":  "Tracked sync signal for remote-to-local workspace updates.",

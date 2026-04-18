@@ -69,6 +69,12 @@
   - `修改稿/scripts/check_remote_signal_and_sync.ps1`
 - 持续轮询监听脚本：
   - `修改稿/scripts/watch_remote_sync.ps1`
+- Windows 计划任务注册脚本：
+  - `修改稿/scripts/register_windows_remote_sync_tasks.ps1`
+- Windows 计划任务删除脚本：
+  - `修改稿/scripts/unregister_windows_remote_sync_tasks.ps1`
+- Windows 计划任务启动包装脚本：
+  - `修改稿/scripts/run_hidden_sync_check.cmd`
 - 一键收尾脚本：
   - `修改稿/scripts/finalize_revision_task.ps1`
 
@@ -79,3 +85,6 @@
 - 不要把临时锁文件、Word 自动生成锁文件或 Python 缓存当作有效稿件。
 - `REMOTE_SYNC_SIGNAL.json` 会在本地提交并推送时自动刷新。
 - `LOCAL_SYNC_STATE.json` 是本地状态文件，只用于记录最近一次检查/同步状态，不进入 Git。
+- 如果需要不打开 Codex 也自动同步，可注册：
+  - 一个每 5 分钟检查一次的 Windows 计划任务
+  - 一个登录即检查一次的 Startup 自启文件
