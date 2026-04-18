@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$Remote = "origin"
 )
 
@@ -9,12 +9,12 @@ Set-Location $repoRoot
 
 git rev-parse --is-inside-work-tree | Out-Null
 if ($LASTEXITCODE -ne 0) {
-    throw "当前目录不是 Git 仓库：$repoRoot"
+    throw ("Not a Git repository: {0}" -f $repoRoot)
 }
 
 $status = git status --short
 if ($status) {
-    throw "工作区存在未提交改动；请先提交、暂存或清理后再同步远端。"
+    throw "Working tree has uncommitted changes. Commit, stash, or clean it first."
 }
 
 $remoteExists = git remote
@@ -26,12 +26,13 @@ if (-not $remoteExists) {
 $branch = git branch --show-current
 git fetch $Remote
 if ($LASTEXITCODE -ne 0) {
-    throw "git fetch 失败"
+    throw "git fetch failed"
 }
 
 git pull --rebase $Remote $branch
 if ($LASTEXITCODE -ne 0) {
-    throw "git pull --rebase 失败"
+    throw "git pull --rebase failed"
 }
 
-Write-Output "Synced from $Remote/$branch"
+Write-Output ("Synced from {0}/{1}" -f $Remote, $branch)
+
