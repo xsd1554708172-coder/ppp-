@@ -67,12 +67,18 @@
   - `修改稿/scripts/sync_from_github.ps1`
 - 远端变更检测并安全同步脚本：
   - `修改稿/scripts/check_remote_signal_and_sync.ps1`
+- 开关守卫脚本：
+  - `修改稿/scripts/guarded_sync_check.ps1`
 - 持续轮询监听脚本：
   - `修改稿/scripts/watch_remote_sync.ps1`
+- Windows 自动同步统一开关脚本：
+  - `修改稿/scripts/set_windows_auto_sync.ps1`
 - Windows 计划任务注册脚本：
   - `修改稿/scripts/register_windows_remote_sync_tasks.ps1`
-- Windows 计划任务删除脚本：
+- Windows 计划任务彻底卸载脚本：
   - `修改稿/scripts/unregister_windows_remote_sync_tasks.ps1`
+- Windows 自动同步手动停止脚本：
+  - `修改稿/scripts/stop_windows_auto_sync.ps1`
 - Windows 计划任务启动包装脚本：
   - `修改稿/scripts/run_hidden_sync_check.cmd`
 - 一键收尾脚本：
@@ -85,6 +91,10 @@
 - 不要把临时锁文件、Word 自动生成锁文件或 Python 缓存当作有效稿件。
 - `REMOTE_SYNC_SIGNAL.json` 会在本地提交并推送时自动刷新。
 - `LOCAL_SYNC_STATE.json` 是本地状态文件，只用于记录最近一次检查/同步状态，不进入 Git。
+- `AUTO_SYNC_CONTROL.json` 是本地自动同步开关文件，不进入 Git。
 - 如果需要不打开 Codex 也自动同步，可注册：
   - 一个每 5 分钟检查一次的 Windows 计划任务
   - 一个登录即检查一次的 Startup 自启快捷方式
+- 日常开启/关闭统一使用 `修改稿/scripts/set_windows_auto_sync.ps1`。
+- 如果只是想临时关闭，不要删 Startup 自启快捷方式，直接用统一开关脚本切到 `Disable`，或使用 `stop_windows_auto_sync.ps1` 这个便捷包装脚本。
+- 只有在你明确要彻底移除自动同步入口时，才使用 `unregister_windows_remote_sync_tasks.ps1`。
