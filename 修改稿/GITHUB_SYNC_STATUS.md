@@ -12,27 +12,29 @@
   - `修改稿/scripts/archive_revision_output.py`
   - `修改稿/scripts/git_sync_workspace.ps1`
   - `修改稿/scripts/finalize_revision_task.ps1`
+- 本地 `main` 已成功推送到 GitHub 远端。
 
-## 目标远端
+## 远端信息
 
-- 目标 GitHub 仓库名：`ppp论文项目`
-- 预期远端地址：`https://github.com/xsd1554708172-coder/ppp论文项目.git`
+- 项目目标名：`ppp论文项目`
+- 当前 GitHub 实际仓库 slug：`ppp-`
+- 当前远端地址：`https://github.com/xsd1554708172-coder/ppp-.git`
+- 当前跟踪分支：`origin/main`
 
-## 当前阻塞点
+## 说明
 
-- 本地尚未确认可用的 GitHub 推送认证。
-- 预期仓库地址当前返回 `Repository not found`，说明远端仓库尚未创建，或当前账号对该仓库没有可见权限。
-- 在远端仓库可用前，后续线程仍应继续执行本地：
-  - `git add -A`
-  - `git commit`
-- 一旦远端仓库创建且认证可用，再执行：
-  - `git push origin main`
+- 之前按中文仓库名直接拼接的地址不可用；实际可访问并可推送的 GitHub 仓库路径是 `xsd1554708172-coder/ppp-`。
+- 后续线程不要再把远端写成 `ppp论文项目.git`，应直接复用当前本地仓库已配置的 `origin`。
 
 ## 后续线程要求
 
 - 每次完成 `v1*` 或 `v2*` 稿件修改后，先归档留底，再提交本地 Git。
+- 默认执行：
+  - `git add -A`
+  - `git commit`
+  - `git push`
 - 如果当轮成功推送远端，说明文件中要写明：
   - 推送分支
   - 提交信息
   - 推送时间
-- 如果当轮仍未能推送远端，说明文件中要写明阻塞原因，不要写成“已同步到 GitHub”。
+- 如果当轮未能推送远端，说明文件中要写明真实阻塞原因，不要写成“已同步到 GitHub”。

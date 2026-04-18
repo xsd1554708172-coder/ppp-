@@ -44,6 +44,7 @@
 ## Git 同步要求
 
 - 仓库名称目标：`ppp论文项目`
+- 当前本地仓库已配置的实际 GitHub 远端 slug：`ppp-`
 - 每次完成修改后都要执行：
   - `git add -A`
   - `git commit`
