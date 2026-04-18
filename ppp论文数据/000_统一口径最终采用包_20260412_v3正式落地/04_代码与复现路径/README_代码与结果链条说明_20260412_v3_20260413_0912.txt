@@ -1,0 +1,7 @@
+代码与结果链条说明（v17估计闭合与入口洁净版）
+
+官方入口脚本：refresh_core_v3_runtime_files_20260413_0912.py
+功能边界：刷新主面板 clean csv、刷新第9部分程序版 csv、同步 config.json。
+兼容包装脚本：rebuild_ppp_v3_harmonized_outputs_from_v2_wrapper_20260413_0912.py
+说明：wrapper 仅为兼容入口，不代表一键全量重建全部输出。
+结果层说明：5.3 / 5.4 / 8.6 已基于当前 V3 主面板重估；第8部分 8.1-8.5 仍沿用既有正式输出。

@@ -1,0 +1,171 @@
+﻿Diagnose log at 2026-04-18T16:29:16Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\陈楚玲
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-G17F48D
+GIT_TRACE2_PARENT_SID=96e4acf3-b02b-4764-820e-82cc33fe85f4
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ZSH_TMUX_AUTOSTART=false
+OneDrive=C:\Users\陈楚玲\OneDrive
+CODEX_THREAD_ID=019d9bd2-ebbc-7723-b48f-05a4ba156d73
+PyCharm=D:\PyCharm 2025.2.4\bin
+CODEX_SHELL=1
+PROCESSOR_REVISION=9a03
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\陈楚玲\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\陈楚玲\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COLORTERM=truecolor
+USERDOMAIN=DESKTOP-G17F48D
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\陈楚玲\bin;C:\Users\陈楚玲\.codex\tmp\arg0\codex-arg0ruKJCu;D:\python\Scripts\;D:\python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\陈楚玲\AppData\Local\Microsoft\WindowsApps;D:\pythontool;D:\pythontool\Scripts;D:\pythontool\Library\bin;D:\Graphviz-14.0.4-win64\bin;D:\PyCharm 2025.2.4\bin;C:\Users\陈楚玲\AppData\Local\OpenAI\Codex\bin;C:\Program Files\WindowsApps\OpenAI.Codex_26.409.7971.0_x64__2p2nqsd0c76g0\app\resources
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+TMPDIR=C:\Users\陈楚玲\AppData\Local\Temp
+ZES_ENABLE_SYSMAN=1
+PSModulePath=C:\Users\陈楚玲\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=16
+ZSH_TMUX_AUTOSTARTED=true
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+TMP=C:\Users\陈楚玲\AppData\Local\Temp
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_3160_IIOBMYSTRJQBRUPZ
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+SystemRoot=C:\WINDOWS
+SHELL=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+HOME=C:\Users\陈楚玲
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+DISABLE_AUTO_UPDATE=true
+LOGONSERVER=\\DESKTOP-G17F48D
+USERPROFILE=C:\Users\陈楚玲
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=Codex Desktop
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-G17F48D
+APPDATA=C:\Users\陈楚玲\AppData\Roaming
+HOMEDRIVE=C:
+RUST_LOG=warn
+USERNAME=陈楚玲
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+OneDriveConsumer=C:\Users\陈楚玲\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\陈楚玲\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\陈楚玲\AppData\Local\Temp\81ec4fcd87c413ab5b4f0ea6'... OK
+Reading from temporary file 'C:\Users\陈楚玲\AppData\Local\Temp\81ec4fcd87c413ab5b4f0ea6'... OK
+Deleting temporary file 'C:\Users\陈楚玲\AppData\Local\Temp\81ec4fcd87c413ab5b4f0ea6'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\陈楚玲
+UserDataDirectoryPath: C:\Users\陈楚玲\.gcm
+GetCurrentDirectory(): C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:58431/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.52.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/陈楚玲/Desktop/ppp论文数据/codex项目/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	user.name=xsd1554708172-coder
+file:.git/config	user.email=xsd1554708172-coder@users.noreply.github.com
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\陈楚玲\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\陈楚玲\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+

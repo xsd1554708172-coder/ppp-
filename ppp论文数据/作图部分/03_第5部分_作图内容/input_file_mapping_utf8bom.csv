@@ -1,0 +1,7 @@
+﻿bundle_filename,original_source
+part5_model_ready_panel.csv,01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6_model_ready_panel_v1.csv
+part5_descriptive_diagnostics.xlsx,01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.2）描述统计、处理时点与样本结构诊断/PPP_第5部分第2批_描述统计与样本结构诊断_V1.xlsx
+part5_baseline_did.xlsx,01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.3）基准多期DID_TWFE正式回归/PPP_第5部分第3批_基准多期DID正式回归_V1.xlsx
+part5_event_study.xlsx,01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.4）事件研究法与平行趋势检验/PPP_第5部分第4批_事件研究与平行趋势检验_V1.xlsx
+part5_model_specs.xlsx,01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6并表与模型设定_V1.xlsx
+part5_placebo_coefficients_generated.csv,generated from panel data by random reassignment of treatment timing

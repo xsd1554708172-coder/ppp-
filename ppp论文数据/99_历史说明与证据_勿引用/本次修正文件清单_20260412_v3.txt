@@ -1,0 +1,7 @@
+本轮v3修正摘要：
+1. 继续重命名残留V1实际文件 32 个，并同步更新README/脚本/映射。
+2. 根目录新增 manifest.csv（旧名/新名/sha256/行数/字段数/size_bytes）。
+3. 补强 5.1 处理变量公式：08_GovService_DID、post=2016、treat_share/did_intensity/did_any 精确定义。
+4. 新增 text_missing/text_observed/treat_share_x_text_missing，并补做缺位虚拟变量+交互项稳健性。
+5. 强化 5.4 / 6 / 8.4 / 8.5 / 8.6 / 9 的写作边界说明。
+6. 更新写作骨架 docx，加入处理变量定义补充表（v3）。

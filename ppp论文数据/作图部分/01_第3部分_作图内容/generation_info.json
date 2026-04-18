@@ -1,0 +1,12 @@
+{
+  "bundle": "PPP_part3_main6_repro_bundle_20260408",
+  "included_input_files": [
+    "part3_qualitative_coding.xlsx",
+    "part3_dictionary_seed_words.xlsx",
+    "part3_word2vec_expansion.xlsx",
+    "part3_bertopic_results.xlsx",
+    "part3_supervised_enhancement.xlsx"
+  ],
+  "included_chart_count": 6,
+  "script": "generate_part3_main6_redo_repro.py"
+}

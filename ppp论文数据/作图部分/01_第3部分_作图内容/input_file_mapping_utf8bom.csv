@@ -1,0 +1,6 @@
+﻿bundle_filename,original_filename,module
+part3_qualitative_coding.xlsx,PPP_V2正式试编码结果.xlsx,3.1 人工编码
+part3_dictionary_seed_words.xlsx,PPP_正式词典初稿_V1.xlsx,3.2 词典构建
+part3_word2vec_expansion.xlsx,PPP_Word2Vec扩词结果_V1.xlsx,3.3 Word2Vec
+part3_bertopic_results.xlsx,PPP_BERTopic正式版_主题识别与映射.xlsx,3.4 BERTopic
+part3_supervised_enhancement.xlsx,PPP_第3部分深度学习终版增强_V2_四级十二类_实际执行版.xlsx,3.5 监督增强

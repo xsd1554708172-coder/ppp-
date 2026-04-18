@@ -1,0 +1,5 @@
+已定位并修改 PPP_第9部分_严格版_合并性能对比.png 对应的正式作图脚本。
+源脚本：run_part9_strict_6models.py
+修改位置：合并性能对比图的 legend 参数
+修改前：plt.legend(loc="lower right", fontsize=9, ncol=2)
+修改后：plt.legend(loc="upper right", fontsize=9, ncol=2)

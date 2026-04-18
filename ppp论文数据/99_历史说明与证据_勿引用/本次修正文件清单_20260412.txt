@@ -1,0 +1,38 @@
+本次已修改/新增文件（2026-04-12 修订）
+
+一、根目录新增
+- README_版本与口径统一说明_20260412_修订版.txt
+- 版本与口径对照表_20260412.csv
+- 问题核对与修改落实清单_20260412.csv
+
+二、正文写作文件修订
+- 03_新增写作工作文件/PPP_正文统一口径说明_变量定义表_第3到第5部分写作骨架_20260412.docx
+  * 补入 treat_share / did_any / did_intensity 精确公式
+  * 新增 text_missing_dummy / text_observed_dummy 变量定义
+  * 新增第6节“风险修正与写作边界（本轮已落实）”
+
+三、数据文件修订
+- PPP_doc_level_variables_v2_四级十二类_实际执行版.csv/.dta
+  * 新增 text_missing_dummy / text_observed_dummy（文档级分别固定为0/1）
+- PPP_province_year_variables_v2_四级十二类_实际执行版.csv/.dta
+  * 新增 text_missing_dummy / text_observed_dummy
+- PPP_year_variables_v2_四级十二类_实际执行版.csv/.dta
+  * 新增 province_without_text_n / province_without_text_share / province_with_text_n
+- PPP_3.6_model_ready_panel_v2_四级十二类_实际执行版.csv/.dta
+  * 新增 text_missing_dummy / text_observed_dummy
+
+四、结果工作簿修订
+- 第4部分变量构造结果簿：新增“文本缺位处理与新增变量_20260412”
+- 第5.1并表与模型设定结果簿：新增“处理变量精确公式_20260412”，并刷新前500行预览
+- 第5.4事件研究结果簿：新增“写作边界_20260412”
+- 第6.6严格中介结果簿：新增“写作边界_20260412”
+- 第8.4 PSM-DID 结果簿：新增“方法边界_20260412”
+- 第8.5 IV 可行性评估结果簿：新增“IV裁决_20260412”
+- 第8.6 DML 结果簿：新增“DML定位_20260412”
+- 第9部分6模型综合对比结果簿：新增“标签边界_20260412”
+
+五、文件名一致化
+- 已将原包内 30 个“V1/V2 旧命名但内容已是四级十二类”的主文件统一重命名
+- 已同步更新 README、最终采用文件清单、替换清单、脚本与 do 文件路径引用
+
+- 01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.1-8.3）常规稳健性/PPP_第8部分_8.1-8.3缺位虚拟变量控制结果_20260412.csv

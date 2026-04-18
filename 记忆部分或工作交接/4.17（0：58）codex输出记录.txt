@@ -1,0 +1,59 @@
+## 1. What I inspected
+
+- I followed the required superpowers workflow and wrote the execution plan first, then executed against that plan rather than patching ad hoc.
+- I inspected the manuscript anchor rather than skipping the `.docx`. The integration note records that `PPP论文_完整论文初稿_公共管理风格_修订版_定点替换_20260415.docx` was checked, that section 5.6 already mixed multiple robustness layers, and that the required action was a structured replacement rather than a new chapter.
+- I inspected the official panel-data anchor and baseline-result anchor through the unified path resolver. That resolver now points the whole bundle to one formal V3 panel, one formal 5.3 long table, and the current manuscript file instead of letting submodules drift to private copies.
+- I inspected the existing reinforcement layers and the cleaned bundle structure, then rebuilt the final bundle as a manuscript-oriented package with four modules plus integration outputs and a changelog.
+
+## 2. What I changed
+
+- Baseline unification. I created a single canonical baseline reference module and made the rule explicit: manuscript-facing comparisons must use the official archived 5.3 values, while fresh reruns are retained only as engineering cross-checks. The script writes the unified workbook; the note now no longer tells downstream modules to anchor on rerun values.
+- Bundle path logic. I fixed the common path layer so the bundle no longer silently grabs the first match it sees and no longer relies on `current_bundle_root` / sibling clean-bundle assumptions. It now resolves the official files by preferred substrings and raises on ambiguous matches instead of silently taking the first path.
+- Trend-adjusted DID module. I rebuilt it as a reproducible defensive layer tied back to the official baseline anchor. The script reruns province-trend-adjusted DID, writes the unified table and figure, and produces body text and notes that explicitly keep it below the main Table 4 identification layer.
+- Leave-one-province-out module. I rebuilt the per-province deletion loop, unified its canonical baseline columns back to the official baseline, and regenerated the body insert, notes, summary table, and stability figure. The module now explicitly reports sign flips and significance-jump counts as a sensitivity diagnostic rather than an “absolutely robust” claim.
+- Small-sample inference downgrade. I removed the external clean-bundle dependency from the script path logic, made the module read its source workbook from a local `inputs` folder inside `unified_v2`, and kept the whole layer at appendix-level support with explicitly downgraded wording.
+- Manuscript integration outputs. I rewrote section 5.6 as a defense-structured block: trend-adjusted DID first, leave-one-province-out second, conservative inference third, and stack DID / cohort ATT / dynamic supplementary identification only as downgraded boundary diagnostics. I also updated the abstract/conclusion supplement, table/figure caption notes, and the manuscript update map so the integration layer is explicit and internally consistent.
+- Robustness summary workbook repair. The review was correct: the manuscript-integration summary workbook had unreadable `recommended_reading` cells. I fixed that by adding a dedicated build script that regenerates the workbook from the unified module outputs with readable outcome-level guidance.
+
+Generated outputs now concentrated in the unified bundle include:
+- `00_unified_baseline_reference/tables/unified_baseline_reference.xlsx`
+- `01_trend_adjusted_DID/tables/trend_adjusted_did_results.xlsx`
+- `01_trend_adjusted_DID/figures/Figure_8A_baseline_vs_trend_adjusted_forest.png`
+- `02_leave_one_province_out_jackknife/tables/leave_one_province_out_results.xlsx`
+- `02_leave_one_province_out_jackknife/tables/leave_one_province_out_stability_summary.xlsx`
+- `02_leave_one_province_out_jackknife/figures/Figure_8B_leave_one_province_out_stability.png`
+- `03_small_sample_inference_wild_cluster_bootstrap/inputs/baseline_did_bootstrap_or_permutation_pvalues.xlsx`
+- `03_small_sample_inference_wild_cluster_bootstrap/tables/small_sample_inference_summary.xlsx`
+- `04_manuscript_integration/tables/robustness_defense_summary.xlsx`
+
+## 3. Verification evidence
+
+- I reran all affected scripts after fixing review findings:
+  - `build_unified_baseline_reference.py`
+  - `run_trend_adjusted_did.py`
+  - `run_leave_one_province_out.py`
+  - `summarize_small_sample_inference.py`
+  - `build_robustness_defense_summary.py`
+- Fresh verification passed on four fronts:
+  - all required bundle files exist;
+  - trend-adjusted DID, leave-one-out, and small-sample summary tables all point back to the same official baseline coefficients;
+  - the repaired `robustness_defense_summary.xlsx` no longer contains damaged `recommended_reading` text;
+  - section 5.6 and caption-note files no longer overstate evidence, and explicitly keep stack DID / cohort ATT / dynamic supplementary identification in downgraded boundary-diagnostic roles.
+- The verified outcome-level evidence is:
+  - trend-adjusted DID: `exec_share = 0.2263, p = 0.1945`; `proc_share = -0.3521, p = 0.0485`; `ppp_quality_zindex = -0.1699, p = 0.6780`
+  - leave-one-out: no sign flips for `exec_share`, `proc_share`, or `ppp_quality_zindex`; significance-jump count is 1 for `exec_share` and `proc_share`, 0 for `ppp_quality_zindex`
+  - wild bootstrap: `p = 0.0761` for `exec_share`, `0.1221` for `proc_share`, `0.2372` for `ppp_quality_zindex`
+- I also requested code review, received concrete findings, and fixed the issues the review identified instead of just reporting them. The repaired areas were the damaged manuscript-integration summary workbook, the path brittleness in the bundle, and the inconsistent baseline readme logic.
+
+## 4. Remaining risks / boundaries
+
+- The main paper constraint remains unchanged: the only main identification strategy is still `treat_share` DID / TWFE. Nothing in this bundle upgrades trend-adjusted DID, leave-one-out, bootstrap, stack DID, cohort ATT, or dynamic supplementary identification into a replacement main model.
+- Trend-adjusted DID is only a defensive robustness layer. It materially helps `proc_share`; it does not fully rescue `exec_share`; it makes `ppp_quality_zindex` weaker, not stronger.
+- Leave-one-province-out supports directional stability, not “complete robustness.” The no-sign-flip result is useful, but the significance-jump counts show that the structural conclusions still have province-level sensitivity at the inference margin.
+- Wild bootstrap / small-sample inference is now correctly downgraded. It should stay as appendix-level support or a short boundary paragraph; it should not sit on the same layer as Figure 8A and Figure 8B.
+- The bundle now contains exact manuscript replacement materials, but I did not overwrite the `.docx` itself in this pass. The integration layer is ready through `section_5_6_replacement.md`, `abstract_and_conclusion_additions.md`, `table_figure_caption_notes.md`, and `manuscript_update_map.md`; applying those replacements into the Word file is the next discrete step rather than something I am claiming is already done.
+
+The unified deliverable is the bundle at:
+`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\PPP_empirical_reinforcement_bundle_20260416_unified_v2`
+
+If you want the next step, the clean handoff is now: apply the `04_manuscript_integration` replacement assets into `PPP论文_完整论文初稿_公共管理风格_修订版_定点替换_20260415.docx` and freeze table/figure numbering there.

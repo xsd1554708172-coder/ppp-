@@ -1,0 +1,13 @@
+{
+  "bundle": "PPP_part5_master5_repro_bundle_20260409",
+  "charts": [
+    "Figure_5_1_treatment_timing_panelview.png",
+    "Figure_5_3_main_results_forest.png",
+    "Figure_5_5_event_study_triptych.png",
+    "Figure_5_8_placebo_distribution.png",
+    "Figure_5_10_project_progress_state_space.png"
+  ],
+  "notes": [
+    "English on-figure labels to avoid font-missing issues"
+  ]
+}

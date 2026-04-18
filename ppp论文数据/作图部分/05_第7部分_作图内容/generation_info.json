@@ -1,0 +1,10 @@
+{
+  "section": "Part 7 heterogeneity",
+  "charts_generated": 11,
+  "inputs": [
+    "part7_1to4_heterogeneity.xlsx",
+    "part7_5_risk_exposure.xlsx",
+    "part7_6_gov_open.xlsx"
+  ],
+  "bundle_type": "design_and_charts_with_repro_code"
+}

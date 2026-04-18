@@ -1,0 +1,14 @@
+第9部分标签口径统一说明（v16纯命名洁净版）
+
+一、正式标签
+- risk_struct_clean 为唯一正式训练标签。
+
+二、正式底表
+- PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0256.xlsx
+- 程序读取版：PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0256.csv
+
+三、历史审计
+- 旧标签仅保留于 legacy audit 独立文件中，不进入正式 full_data_10000 或程序读取 csv。
+
+四、当前唯一正式版
+当前唯一正式版为 v16 总包与补丁包。

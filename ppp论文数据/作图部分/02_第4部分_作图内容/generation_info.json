@@ -1,0 +1,11 @@
+{
+  "generated_on": "2026-04-08",
+  "charts": [
+    "Figure_4A_policy_state_ternary",
+    "Figure_4B_topicshare_embedding_pca",
+    "Figure_4_5_province_year_capacity_heatmap",
+    "Figure_4_7_topic_to_dimension_bridge",
+    "Figure_4_8_composite_parallel_coordinates"
+  ],
+  "notes": "包含两张状态母版图 + 第4部分其余三张母版图；脚本使用相对路径。"
+}

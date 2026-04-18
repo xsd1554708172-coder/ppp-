@@ -1,0 +1,6 @@
+第9部分标签口径统一说明（v17估计闭合与入口洁净版）
+
+正式训练标签仅认 risk_struct_clean。
+当前正式底表：PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.xlsx
+当前程序读取版：PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.csv
+旧标签历史审计文件仍保留在历史目录，不进入正式底表主层。

@@ -1,0 +1,22 @@
+代码与结果链条说明（v16纯命名洁净版）
+
+一、官方脚本入口
+- refresh_core_v3_runtime_files_20260413_0256.py
+定位：minimal refresh script，仅刷新当前运行时核心文件，不是全量重建脚本。
+
+二、兼容 wrapper
+- rebuild_ppp_v3_harmonized_outputs_from_v2_wrapper_20260413_0256.py
+定位：兼容旧调用路径的包装脚本，不应理解为“一键总重建脚本”。
+
+三、最小刷新范围
+1. 从当前正式主面板 xlsx 的 panel_v3 工作表导出 clean csv
+2. 从当前正式风险底表 xlsx 的 full_data_10000 工作表导出程序读取 csv
+3. 刷新 02_第9部分_最终可用内容/config.json 的 data_path
+
+四、边界说明
+- 不重建 5.3 / 5.4 / 8.6 的桥接结果文件
+- 不重建口径表、状态表、证据表
+- 不替代完整总包重打
+
+五、当前唯一正式版
+当前唯一正式版为 v16 总包与补丁包。

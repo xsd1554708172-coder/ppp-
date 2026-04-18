@@ -1,0 +1,12 @@
+{
+  "bundle": "PPP_part6_rebuild_nonforest_20260409",
+  "charts": [
+    "Figure_6A_mechanism_path_diagram.png",
+    "Figure_6B_mechanism_flow_alluvial.png",
+    "Figure_6C_decomposition_waterfall.png",
+    "Figure_6D_bootstrap_indirect_distribution.png",
+    "Figure_6E_mechanism_evidence_scorecard.png",
+    "Figure_6F_direct_effect_attenuation.png"
+  ],
+  "notes": "Rebuilt section 6 into six non-forest figures focused on path, flow, decomposition, distribution, evidence matrix, and attenuation."
+}

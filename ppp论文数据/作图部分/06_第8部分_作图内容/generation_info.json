@@ -1,0 +1,44 @@
+{
+  "section": "第8部分 稳健性检验",
+  "charts_generated": [
+    "Figure_8_10_dml_fold_diagnostics",
+    "Figure_8_11_robustness_scorecard",
+    "Figure_8_1_robustness_architecture_map",
+    "Figure_8_2_effect_significance_frontier",
+    "Figure_8_3_treatshare_stability_panels",
+    "Figure_8_4_psm_love_plot",
+    "Figure_8_5_common_support_mirror_density",
+    "Figure_8_6_matched_vs_baseline_dumbbell",
+    "Figure_8_7_iv_candidate_quadrant",
+    "Figure_8_8_iv_candidate_profiles",
+    "Figure_8_9_dml_vs_baseline_dumbbell"
+  ],
+  "input_files": [
+    {
+      "bundle_file": "robustness.xlsx",
+      "source_file": "PPP_第5部分第6批_稳健性检验_V1.xlsx"
+    },
+    {
+      "bundle_file": "psm.xlsx",
+      "source_file": "PPP_第8部分第1批_8.4PSM-DID_V1.xlsx"
+    },
+    {
+      "bundle_file": "iv.xlsx",
+      "source_file": "PPP_第8部分第2批_8.5IV可行性评估_V1.xlsx"
+    },
+    {
+      "bundle_file": "dml.xlsx",
+      "source_file": "PPP_第8部分第3批_8.6DML稳健性检验_V1.xlsx"
+    },
+    {
+      "bundle_file": "baseline.xlsx",
+      "source_file": "PPP_第5部分第3批_基准多期DID正式回归_V1.xlsx"
+    }
+  ],
+  "notes": [
+    "图8-4 Love plot 基于匹配前后标准化差异",
+    "图8-5 基于共同支撑样本倾向得分镜像密度",
+    "图8-7/8 为候选IV筛查结果可视化，不代表正式IV回归",
+    "图8-9/10 将DML视为高维稳健性方向，不替代DID/TWFE主模型"
+  ]
+}
