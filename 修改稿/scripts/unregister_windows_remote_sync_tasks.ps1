@@ -4,7 +4,7 @@ param(
 
 $taskRepeat = "Codex_PPP_RemoteSync_Every{0}Min" -f $IntervalMinutes
 $startupDir = [Environment]::GetFolderPath("Startup")
-$startupFile = Join-Path $startupDir "Codex_PPP_RemoteSync_OnStartup.vbs"
+$startupFile = Join-Path $startupDir "Codex_PPP_RemoteSync_OnStartup.lnk"
 
 foreach ($taskName in @($taskRepeat)) {
     schtasks /Delete /TN $taskName /F 2>$null | Out-Null
