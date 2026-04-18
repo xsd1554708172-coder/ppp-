@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
+00_环境说明与索引/LOCAL_SYNC_STATE.json
+00_环境说明与索引/REMOTE_SYNC_POLL.log

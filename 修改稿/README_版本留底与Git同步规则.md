@@ -46,6 +46,8 @@
 
 - 仓库名称目标：`ppp论文项目`
 - 当前本地仓库已配置的实际 GitHub 远端 slug：`ppp-`
+- 仓库中的远端同步信号文件：
+  - `00_环境说明与索引/REMOTE_SYNC_SIGNAL.json`
 - 每次完成修改后都要执行：
   - `git add -A`
   - `git commit`
@@ -63,6 +65,10 @@
   - `修改稿/scripts/git_sync_workspace.ps1`
 - 远端拉取同步脚本：
   - `修改稿/scripts/sync_from_github.ps1`
+- 远端变更检测并安全同步脚本：
+  - `修改稿/scripts/check_remote_signal_and_sync.ps1`
+- 持续轮询监听脚本：
+  - `修改稿/scripts/watch_remote_sync.ps1`
 - 一键收尾脚本：
   - `修改稿/scripts/finalize_revision_task.ps1`
 
@@ -71,3 +77,5 @@
 - 留底是历史快照，不覆盖旧文件。
 - 工作稿可以继续迭代，但每次交付级修改都必须生成新的留底文件。
 - 不要把临时锁文件、Word 自动生成锁文件或 Python 缓存当作有效稿件。
+- `REMOTE_SYNC_SIGNAL.json` 会在本地提交并推送时自动刷新。
+- `LOCAL_SYNC_STATE.json` 是本地状态文件，只用于记录最近一次检查/同步状态，不进入 Git。
