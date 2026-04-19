@@ -59,6 +59,12 @@ Default objective: improve empirical credibility, manuscript consistency, and re
 - After each completed revision task, update the local Git repository and push to the configured GitHub remote if one is available.
 - Use the existing sync scripts under `修改稿/scripts/` rather than ad hoc git command sequences when possible.
 
+## Revision output conventions
+- Across `v1*`, `v2*`, and later revision chains, the latest manuscript authority is always the newest `.docx` file.
+- Each completed revision round must output a manuscript-facing `.docx` and a synchronized `.md` archive copy; if a delivery bundle is produced, package it only after both files exist.
+- Each completed revision round must leave one independently openable `.docx` in the working directory or archive folder and include the same `.docx` inside the corresponding zip bundle.
+- Version tokens must advance sequentially within each chain, for example `v1a -> v1b -> v1c` and `v2d -> v2e -> v2f`, with no skipped letters, no reuse of old version names, and no non-sequential labels such as `最终版` or `最新版2`.
+
 ## AGENTS.md maintenance rule
 - Keep this file concise and durable.
 - Add new rules only if they are repeatedly needed, repeatedly violated, likely to recur across many tasks, or materially affect credibility or the paper's main line.
