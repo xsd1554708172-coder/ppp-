@@ -100,4 +100,5 @@
 ## Remaining Risks / Human Follow-up
 
 - exact reviewed `v1c` source 仍然缺失；如后续恢复 `01_revised_manuscript_v1c_content_only.docx`，应再做一次 exact diff。
-- 若要继续冲击顶刊层级，下一轮需要的是 fresh、正式、可审计的识别补强结果，而不是继续堆叠语言润色。
+- 按当前人工决策，`v1d` 作为“基于现存 v1c 表征的有效推进版”予以保留。
+- 但本轮 `no rerun` 策略不被接受为最终实证收口；若要继续冲击顶刊层级，下一轮必须以 fresh、正式、可审计的识别补强结果和至少一轮 rerun 为默认起点，而不是继续堆叠语言润色。

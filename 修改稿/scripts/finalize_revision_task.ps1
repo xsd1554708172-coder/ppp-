@@ -5,6 +5,10 @@ param(
     [Parameter(Mandatory = $true)]
     [string]$Token,
 
+    [string]$ReviewedSourcePath = "",
+
+    [string[]]$CommentFiles = @(),
+
     [string]$Timestamp = "",
 
     [string]$CommitMessage = ""
@@ -56,13 +60,11 @@ if ($LASTEXITCODE -ne 0) {
     throw "Index refresh step failed."
 }
 
-$series = ""
+$series = "workspace"
 if ($Token.ToLower().StartsWith("v1")) {
     $series = "v1"
 } elseif ($Token.ToLower().StartsWith("v2")) {
     $series = "v2"
-} else {
-    $series = "workspace"
 }
 
 $logArgs = @(
@@ -70,11 +72,21 @@ $logArgs = @(
     "--action", "finalize_revision_task",
     "--series", $series,
     "--token", $Token,
-    "--source", $SourcePath,
+    "--revised-output", $SourcePath,
     "--archive", $archiveTarget,
     "--note", "Archived revised manuscript and refreshed 修改稿 indexes.",
     "--commit-message", $CommitMessage
 )
+
+if ($ReviewedSourcePath) {
+    $logArgs += @("--reviewed-source", $ReviewedSourcePath)
+}
+
+foreach ($commentFile in $CommentFiles) {
+    if ($commentFile) {
+        $logArgs += @("--comment-file", $commentFile)
+    }
+}
 
 $logPath = & python @logArgs
 if ($LASTEXITCODE -ne 0) {

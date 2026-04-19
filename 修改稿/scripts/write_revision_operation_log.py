@@ -33,12 +33,22 @@ def run_git(*args: str) -> str:
     return result.stdout.strip()
 
 
+def add_block(lines: list[str], title: str, values: list[str]) -> None:
+    cleaned = [value for value in values if value]
+    if not cleaned:
+        return
+    lines.extend(["", f"## {title}", ""])
+    for value in cleaned:
+        lines.append(f"- `{value}`")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Write one timestamped revision-operation log file.")
     parser.add_argument("--action", required=True)
     parser.add_argument("--series", default="workspace")
     parser.add_argument("--token", default="general")
-    parser.add_argument("--source", action="append", default=[])
+    parser.add_argument("--reviewed-source", action="append", default=[])
+    parser.add_argument("--revised-output", action="append", default=[])
     parser.add_argument("--archive", action="append", default=[])
     parser.add_argument("--output", action="append", default=[])
     parser.add_argument("--comment-file", action="append", default=[])
@@ -53,7 +63,6 @@ def main() -> None:
     action_slug = slugify(args.action)
     series_slug = slugify(args.series)
     token_slug = slugify(args.token)
-
     log_path = LOG_ROOT / f"{stamp}__{series_slug}__{token_slug}__{action_slug}.md"
 
     branch = run_git("branch", "--show-current")
@@ -73,18 +82,12 @@ def main() -> None:
     if args.commit_message:
         lines.append(f"- 计划提交说明：`{args.commit_message}`")
 
-    def add_block(title: str, values: list[str]) -> None:
-        if not values:
-            return
-        lines.extend(["", f"## {title}", ""])
-        for value in values:
-            lines.append(f"- `{value}`")
-
-    add_block("源稿件", args.source)
-    add_block("归档输出", args.archive)
-    add_block("其他输出", args.output)
-    add_block("读取的修改建议", args.comment_file)
-    add_block("备注", args.note)
+    add_block(lines, "被审源稿", args.reviewed_source)
+    add_block(lines, "修订输出", args.revised_output)
+    add_block(lines, "归档输出", args.archive)
+    add_block(lines, "其他输出", args.output)
+    add_block(lines, "读取的修改建议", args.comment_file)
+    add_block(lines, "备注", args.note)
 
     lines.append("")
     log_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")

@@ -127,3 +127,4 @@
 
 - exact reviewed v1c source 仍然缺失，因此 `v1d` 是 forward-applied revision，而不是对缺失源稿的直接修改。
 - 两份评审报告建议中的 `group-time ATT / continuous DID / randomization inference / 独立文本变量效度统计包` 本轮没有 fresh、正式、可审计结果实体，故未落地到正文。
+- 按后续人工确认，`v1d` 可以作为“基于现存 v1c 表征的有效推进版”保留，但本轮 `no rerun` 不被接受为最终实证收口；下一轮如继续推进，必须以 fresh rerun / fresh result regeneration 为默认要求。

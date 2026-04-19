@@ -8,7 +8,7 @@
 ## Review / Suggestion Files Used
 
 - 主 v1c 复审报告：
-  - `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v1修改建议\v1c_top_journal_review_report.docx`
+  - `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v1修改建议\v1c修改建议\v1c_top_journal_review_report.docx`
   - 说明：与 `修改稿\v1初始版\v1c_top_journal_review_report.docx` 的 SHA256 一致，二者是同一份复审报告副本。
 - 辅助顶刊化润色报告：
   - `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v1修改建议\v1c修改建议\V1 版本内容复审与顶刊化润色报告.docx`

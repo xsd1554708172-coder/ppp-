@@ -37,8 +37,8 @@ def write_if_changed(path: Path, content: str) -> None:
 def summarize_dir(path: Path) -> tuple[list[Path], list[Path]]:
     if not path.exists():
         return [], []
-    dirs = sorted([p for p in path.iterdir() if p.is_dir()], key=lambda p: p.name.lower())
-    files = sorted([p for p in path.iterdir() if p.is_file()], key=lambda p: p.name.lower())
+    dirs = sorted((p for p in path.iterdir() if p.is_dir()), key=lambda p: p.name.lower())
+    files = sorted((p for p in path.iterdir() if p.is_file()), key=lambda p: p.name.lower())
     return dirs, files
 
 
@@ -102,11 +102,12 @@ def render_overview(generated_at: str) -> str:
         "",
         "## 当前规则摘要",
         "",
-        "- 工作稿目录使用 `v1初始版` / `v2初始版`。",
-        "- 修改建议目录使用 `v1修改建议/<token>修改建议/` 与 `v2修改建议/<token>修改建议/`。",
-        "- 说明文件目录使用 `v1说明文件/<token>/` 与 `v2说明文件/<token>/`。",
-        "- 留底目录使用 `v1修改稿留底/<token>/` 与 `v2修改稿留底/<token>/`。",
-        "- 每次收尾都会自动刷新本索引并新增一份操作日志。",
+        "- 工作稿目录使用 `v1初始版/` 与 `v2初始版/`。",
+        "- 修改建议目录统一使用 `v1修改建议/<token>修改建议/` 与 `v2修改建议/<token>修改建议/`，不再保留同级散放评审文件。",
+        "- 说明文件目录统一使用 `v1说明文件/<token>/` 与 `v2说明文件/<token>/`。",
+        "- 留底目录统一使用 `v1修改稿留底/<token>/` 与 `v2修改稿留底/<token>/`。",
+        "- 每次收尾都必须新增一份精确到秒的操作日志，并把“被审源稿”和“修订输出”分开记录。",
+        "- 触及样本、识别、结果数值、表图、附录或变量工程的修改，默认至少需要一轮可审计的 fresh rerun；若无法重跑，必须显式写明 blocker。",
         "",
     ]
     return "\n".join(lines).rstrip() + "\n"
