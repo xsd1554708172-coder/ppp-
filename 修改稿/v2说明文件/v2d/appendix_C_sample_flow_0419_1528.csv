@@ -1,0 +1,8 @@
+stage,count,source_or_rule,manuscript_use
+full_policy_text_pool,1472,"数据总表（一切数据基础）.xlsx / 政策文本全文池现行正式口径","表1与附录C统一口径"
+formal_did_text_docs,1307,"v2 retained review report 与当前正式整合稿口径","正式DID文本文档样本"
+province_year_text_units,288,"当前正式整合稿与v2 retained review report口径","省—年文本聚合单元"
+v3_main_panel_obs,266,"PPP_v3结果层状态表_20260413_1345.xlsx","正式V3主面板观察值"
+formal_regression_sample,262,"正式主识别样本；4个兵团观察因控制变量不完整剔除","表4与正文主回归"
+project_level_extension_obs,10000,"当前正式整合稿与v2 retained review report口径","第5.7节扩展分析"
+unsupported_legacy_full_pool_label,165,"当前仓库未发现支持其作为“全量政策文本池”的正式资产","v2d不采纳"

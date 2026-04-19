@@ -1,0 +1,10 @@
+spec,outcome,coef,se_or_cluster_se,p_value,note
+baseline_twfe,exec_share,0.3556277047526408,0.1001636129981076,0.0003845468522075,official_table4
+baseline_twfe,proc_share,-0.4022774860927093,0.1019090046565017,0.00007899841080299854,official_table4
+baseline_twfe,ppp_quality_zindex,0.5252969355953995,0.4213976844677991,0.2125593654167483,official_table4
+trend_adjusted_did,exec_share,0.2262861101927882,0.1744093771933589,0.1944790328877616,official_bundle_defense
+trend_adjusted_did,proc_share,-0.35210675967008,0.1784378679689557,0.04846438271309223,official_bundle_defense
+trend_adjusted_did,ppp_quality_zindex,-0.1699354582537249,0.4092905410846794,0.677999029924208,official_bundle_defense
+wild_cluster_bootstrap,exec_share,0.3599903094734115,0.1008444522409024,0.07607607607607608,official_bundle_small_sample
+wild_cluster_bootstrap,proc_share,-0.4065371976359414,0.1022965722632587,0.1221221221221221,official_bundle_small_sample
+wild_cluster_bootstrap,ppp_quality_zindex,0.5226386601375361,,0.2372372372372372,official_bundle_small_sample
