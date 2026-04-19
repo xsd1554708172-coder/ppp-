@@ -1,0 +1,5 @@
+﻿province,year,baseline_controls_complete,dfi,digital_econ,base_station_density,software_gdp_share,it_service_gdp_share,ln_rd_expenditure,ln_tech_contract_value,ln_patent_grants,exclusion_reason,missing_controls
+新疆生产建设兵团,2015,0,,,,,,,,,baseline_controls_incomplete,"dfi, digital_econ, base_station_density, software_gdp_share, it_service_gdp_share, ln_rd_expenditure, ln_tech_contract_value, ln_patent_grants"
+新疆生产建设兵团,2016,0,,,,,,,,,baseline_controls_incomplete,"dfi, digital_econ, base_station_density, software_gdp_share, it_service_gdp_share, ln_rd_expenditure, ln_tech_contract_value, ln_patent_grants"
+新疆生产建设兵团,2017,0,,,,,,,,,baseline_controls_incomplete,"dfi, digital_econ, base_station_density, software_gdp_share, it_service_gdp_share, ln_rd_expenditure, ln_tech_contract_value, ln_patent_grants"
+新疆生产建设兵团,2020,0,,,,,,,,,baseline_controls_incomplete,"dfi, digital_econ, base_station_density, software_gdp_share, it_service_gdp_share, ln_rd_expenditure, ln_tech_contract_value, ln_patent_grants"
