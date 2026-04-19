@@ -4,6 +4,7 @@
 
 $repoRoot = Split-Path -Parent $PSScriptRoot
 $repoRoot = Split-Path -Parent $repoRoot
+$refreshScript = Join-Path $PSScriptRoot "refresh_revision_indexes.py"
 $indexDir = Get-ChildItem -LiteralPath $repoRoot -Directory | Where-Object { $_.Name -like "00_*" } | Select-Object -First 1
 if (-not $indexDir) {
     throw "Index directory not found."
@@ -15,6 +16,13 @@ Set-Location $repoRoot
 git rev-parse --is-inside-work-tree | Out-Null
 if ($LASTEXITCODE -ne 0) {
     throw "褰撳墠鐩綍涓嶆槸 Git 浠撳簱锛?repoRoot"
+}
+
+if (Test-Path -LiteralPath $refreshScript) {
+    & python $refreshScript | Out-Null
+    if ($LASTEXITCODE -ne 0) {
+        throw "refresh_revision_indexes.py 执行失败"
+    }
 }
 
 $remote = git remote

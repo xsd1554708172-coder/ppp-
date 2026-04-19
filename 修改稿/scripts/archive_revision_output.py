@@ -16,13 +16,15 @@ def detect_bucket(token: str) -> str:
         return "v1修改稿留底"
     if token_lower.startswith("v2"):
         return "v2修改稿留底"
-    raise ValueError(f"无法根据 token 判断留底目录：{token}")
+    raise ValueError(f"无法根据 token 判断留底目录: {token}")
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Archive a revised manuscript into the correct v1/v2 archive folder.")
-    parser.add_argument("--source", required=True, help="Absolute or relative path of the revised manuscript file.")
-    parser.add_argument("--token", required=True, help="Version token such as v1a or v2b.")
+    parser = argparse.ArgumentParser(
+        description="Archive a revised manuscript into the correct v1/v2 archive folder."
+    )
+    parser.add_argument("--source", required=True, help="Path of the revised manuscript file.")
+    parser.add_argument("--token", required=True, help="Version token such as v1c or v2c.")
     parser.add_argument("--timestamp", default=None, help="Optional timestamp in MMDD_HHMM format.")
     args = parser.parse_args()
 
