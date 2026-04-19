@@ -1,10 +1,10 @@
 ﻿{
     "project":  "ppp-paper-workspace",
     "signal_version":  1,
-    "signal_sequence":  3,
-    "last_pushed_at":  "2026-04-19T01:14:28+08:00",
+    "signal_sequence":  4,
+    "last_pushed_at":  "2026-04-19T15:38:16+08:00",
     "updated_by":  "陈楚玲@DESKTOP-G17F48D",
     "branch":  "main",
     "purpose":  "Tracked sync signal for remote-to-local workspace updates.",
-    "note":  "Refreshed automatically by git_sync_workspace.ps1 before push."
+    "note":  "Refreshed manually for v1d delivery before push."
 }
