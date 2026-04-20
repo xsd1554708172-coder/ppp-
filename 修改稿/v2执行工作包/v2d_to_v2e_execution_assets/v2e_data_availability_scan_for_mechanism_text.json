@@ -1,6 +1,6 @@
 [
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/00_input_mapping.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/00_input_mapping.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -11,7 +11,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/01_revision_tasklist.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/01_revision_tasklist.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -33,7 +33,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/02_verification_report.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/02_verification_report.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -48,7 +48,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/03_delivery_note.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/03_delivery_note.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -60,7 +60,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A0_A4_templates_codebook.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/appendix_A0_A4_templates_codebook.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -86,7 +86,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A2_treat_share_aggregation_audit_note.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/appendix_A2_treat_share_aggregation_audit_note.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -95,7 +95,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A4_text_validity_audit_template.csv",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/appendix_A4_text_validity_audit_template.csv",
     "name_hits": [
       "validity"
     ],
@@ -122,7 +122,7 @@
     ]
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A4_text_validity_audit_template.xlsx",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/appendix_A4_text_validity_audit_template.xlsx",
     "name_hits": [
       "validity"
     ],
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_DID_14_literature_metadata_report.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_DID_14_literature_metadata_report.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -159,7 +159,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_DID_冲刺修订执行计划.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_DID_冲刺修订执行计划.md",
     "name_hits": [
       "执行"
     ],
@@ -186,7 +186,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_empirical_rerun_checklist.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_empirical_rerun_checklist.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -213,7 +213,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_implied_registry_construction_report.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_implied_registry_construction_report.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -223,7 +223,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_literature_integration_patch.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_literature_integration_patch.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -236,7 +236,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_manuscript_patch.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_manuscript_patch.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [
@@ -258,7 +258,7 @@
     "sheet_info": []
   },
   {
-    "file": "修改稿/v2修改建议/v2e修改建议/v2e_rerun_result_snapshot.md",
+    "file": "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_rerun_result_snapshot.md",
     "name_hits": [],
     "col_hits": [],
     "text_hits": [

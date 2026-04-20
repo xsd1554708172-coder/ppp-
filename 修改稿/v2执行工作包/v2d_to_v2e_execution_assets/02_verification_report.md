@@ -35,14 +35,14 @@
 ## 3. 本轮已完成的资产
 
 - `修改稿/v2修改建议/v2d修改建议/_codex_extracts/v2d_DID_冲刺修订报告_extracted.md`
-- `修改稿/v2修改建议/v2e修改建议/00_input_mapping.md`
-- `修改稿/v2修改建议/v2e修改建议/01_revision_tasklist.md`
-- `修改稿/v2修改建议/v2e修改建议/02_verification_report.md`
-- `修改稿/v2修改建议/v2e修改建议/03_delivery_note.md`
-- `修改稿/v2修改建议/v2e修改建议/v2e_DID_冲刺修订执行计划.md`
-- `修改稿/v2修改建议/v2e修改建议/v2e_manuscript_patch.md`
-- `修改稿/v2修改建议/v2e修改建议/v2e_empirical_rerun_checklist.md`
-- `修改稿/v2修改建议/v2e修改建议/v2e_literature_integration_patch.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/00_input_mapping.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/01_revision_tasklist.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/02_verification_report.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/03_delivery_note.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_DID_冲刺修订执行计划.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_manuscript_patch.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_empirical_rerun_checklist.md`
+- `修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_literature_integration_patch.md`
 
 ## 3.1 本轮实际运行的验证命令
 
@@ -60,7 +60,7 @@ python -m py_compile "PPP_empirical_reinforcement_bundle_20260416_unified_v3/01_
 git diff --stat
 git status --short --branch
 git diff --no-index --stat -- NUL <new-file>
-git diff --no-index --check -- NUL "修改稿/v2修改建议/v2e修改建议/v2e_manuscript_patch.md"
+git diff --no-index --check -- NUL "修改稿/v2执行工作包/v2d_to_v2e_execution_assets/v2e_manuscript_patch.md"
 ```
 
 结果：
@@ -193,7 +193,7 @@ git status --short --branch
 
 ## 10. 省年审计数据与伪 city-slot registry 生成验证（2026-04-20 19:26）
 
-- 已生成位置：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议`。
+- 已生成位置：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets`。
 - 省年审计数据：`v2e_province_year_treat_share_audit_from_v2d.csv` / `v2e_province_year_treat_share_audit_from_v2d.xlsx`。
 - 伪 city-slot registry：`v2e_implied_city_slot_registry_from_v2d_treat_share.csv` / `v2e_implied_city_slot_registry_from_v2d_treat_share.xlsx`。
 - 独立说明文件：`v2e_implied_registry_construction_report.md`。

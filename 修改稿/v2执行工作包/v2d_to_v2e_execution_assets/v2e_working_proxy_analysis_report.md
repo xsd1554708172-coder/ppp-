@@ -5,8 +5,8 @@
 
 ## 1. 已采用的工作输入
 
-- Working registry：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_implied_city_slot_registry_from_v2d_treat_share.csv`
-- Working threshold/audit proxy：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_province_year_treat_share_audit_from_v2d.csv`
+- Working registry：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_implied_city_slot_registry_from_v2d_treat_share.csv`
+- Working threshold/audit proxy：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_province_year_treat_share_audit_from_v2d.csv`
 
 ## 2. 新增输出
 

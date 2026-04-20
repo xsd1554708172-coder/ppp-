@@ -4,12 +4,12 @@
 
 | module | status | exit_code | reason | log |
 |---|---|---:|---|---|
-| baseline_unified_reference | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\rerun_logs\baseline_unified_reference.utf8.log` |
-| trend_adjusted_DID | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\rerun_logs\trend_adjusted_DID.utf8.log` |
-| leave_one_province_out | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\rerun_logs\leave_one_province_out.utf8.log` |
-| wild_cluster_bootstrap_summary | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\rerun_logs\wild_cluster_bootstrap_summary.utf8.log` |
-| robustness_defense_summary | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\rerun_logs\robustness_defense_summary.utf8.log` |
-| log_ratio | no_runnable_script_found | NA | python scripts found: 0 | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\rerun_logs\log_ratio_search.utf8.log` |
+| baseline_unified_reference | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\rerun_logs\baseline_unified_reference.utf8.log` |
+| trend_adjusted_DID | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\rerun_logs\trend_adjusted_DID.utf8.log` |
+| leave_one_province_out | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\rerun_logs\leave_one_province_out.utf8.log` |
+| wild_cluster_bootstrap_summary | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\rerun_logs\wild_cluster_bootstrap_summary.utf8.log` |
+| robustness_defense_summary | success | 0 |  | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\rerun_logs\robustness_defense_summary.utf8.log` |
+| log_ratio | no_runnable_script_found | NA | python scripts found: 0 | `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\rerun_logs\log_ratio_search.utf8.log` |
 
 ## 本轮可认定事项
 
