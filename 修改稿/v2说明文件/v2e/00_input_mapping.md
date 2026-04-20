@@ -11,10 +11,10 @@
 
 ## 本轮依据
 
-- v2e 修改建议/执行包目录：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议`
+- v2d_to_v2e 执行工作包目录：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets`
 - v2d DID 冲刺修订报告提取件：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2d修改建议\_codex_extracts\v2d_DID_冲刺修订报告_extracted.md`
-- v2e 省年审计数据：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_province_year_treat_share_audit_from_v2d.csv`
-- v2e 伪 city-slot registry：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_implied_city_slot_registry_from_v2d_treat_share.csv`
+- v2e 省年审计数据：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_province_year_treat_share_audit_from_v2d.csv`
+- v2e 伪 city-slot registry：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_implied_city_slot_registry_from_v2d_treat_share.csv`
 
 ## Forward-apply 说明
 

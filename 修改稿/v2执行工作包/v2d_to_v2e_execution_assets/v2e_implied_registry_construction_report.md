@@ -6,7 +6,7 @@
 
 ## 1. 放置位置
 
-本轮所有新生成的审计资产均放在 v2e 修改建议/执行包目录：
+本轮所有新生成的审计资产均放在 v2d_to_v2e 执行工作包目录：
 
 `C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets`
 

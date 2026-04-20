@@ -6,9 +6,9 @@
 
 ## 1. 放置位置
 
-本轮所有新生成的审计资产均放在 v2e 修改建议/执行包目录：
+本轮所有新生成的审计资产均放在 v2d_to_v2e 执行工作包目录：
 
-`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议`
+`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets`
 
 理由：本轮目标是为 v2d → v2e 的 DID 冲刺修订提供可审查、可 Git diff 的派生资产；不覆盖 v2d 原始资产，不写入原始数据目录，不修改任何 `.docx` 或 `.xlsx` 主数据文件。
 
@@ -22,21 +22,21 @@
 
 ### 3.1 可用的省年审计数据
 
-- CSV：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_province_year_treat_share_audit_from_v2d.csv`
-- XLSX：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_province_year_treat_share_audit_from_v2d.xlsx`
+- CSV：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_province_year_treat_share_audit_from_v2d.csv`
+- XLSX：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_province_year_treat_share_audit_from_v2d.xlsx`
 
 用途：审计 province-year 层级的 `treat_share_current`、`treated_city_count_implied_source`、`did_intensity_current`、`post`、`did_any_current` 等是否内部一致，并为后续 full rerun 前的处理强度口径复核提供底表。
 
 ### 3.2 伪 city-slot registry
 
-- CSV：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_implied_city_slot_registry_from_v2d_treat_share.csv`
-- XLSX：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_implied_city_slot_registry_from_v2d_treat_share.xlsx`
+- CSV：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_implied_city_slot_registry_from_v2d_treat_share.csv`
+- XLSX：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_implied_city_slot_registry_from_v2d_treat_share.xlsx`
 
 用途：在没有原始城市名单时，将每个 province-year 的 `city_n` 展开为 `IMPLIED_SLOT_###`，并用 `treated_city_count_implied_source` 标记前若干 slot 的覆盖状态，从而形成可审计的“省内城市席位”处理登记表。该表只能用于聚合链条审计、脚本接口测试或 rerun 前的数据结构占位，不能在论文中写成真实城市名单。
 
 ### 3.3 机器可读摘要
 
-- JSON：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2修改建议\v2e修改建议\v2e_implied_registry_construction_summary.json`
+- JSON：`C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\修改稿\v2执行工作包\v2d_to_v2e_execution_assets\v2e_implied_registry_construction_summary.json`
 
 用途：记录生成脚本得到的行数、误差、flag 计数和输入输出路径，便于后续自动核验。
 
