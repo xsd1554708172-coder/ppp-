@@ -63,6 +63,10 @@ def find_single(
 def resolve_paths(script_path: Path) -> WorkspacePaths:
     bundle_root = script_path.resolve().parents[2]
     workspace_root = bundle_root.parent
+    official_docx = (
+        workspace_root
+        / "PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_20260418_对象保留投稿版.docx"
+    )
     return WorkspacePaths(
         workspace_root=workspace_root,
         bundle_root=bundle_root,
@@ -76,10 +80,12 @@ def resolve_paths(script_path: Path) -> WorkspacePaths:
             "PPP_*5.3*.csv",
             preferred_substrings=("20260413_1048",),
         ),
-        current_docx=find_single(
+        current_docx=official_docx
+        if official_docx.exists()
+        else find_single(
             workspace_root,
             "*.docx",
-            preferred_substrings=("定点替换",),
+            preferred_substrings=("20260418", "对象保留投稿版"),
         ),
     )
 

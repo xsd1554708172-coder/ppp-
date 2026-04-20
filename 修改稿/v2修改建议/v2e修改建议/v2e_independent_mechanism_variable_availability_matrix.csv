@@ -1,0 +1,7 @@
+﻿candidate,requires_city_registry_or_threshold,current_action,usable_current_source,reason
+审批时长,No,not_estimated,not found,Requires approval start/end or process dates; pseudo registry/audit cannot supply time duration.
+采购到执行间隔,No,not_estimated,not found,Requires stage transition dates; current project data has stage labels and 发起时间 but no transition date pair.
+公告披露完整度,No,candidate_proxy_generated,C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\ppp论文数据\02_第9部分_最终可用内容\（补充）项目级建模底表\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.csv,Can be proxied from nonmissing/length of 项目概况/合作范围/批复意见; this is not a validated mechanism estimate.
+项目退库率,No,not_estimated,not found,Requires explicit exit/退库 status; not recoverable from implied registry/audit.
+在线服务指数,No,not_estimated,not found,Requires external online service index; not supplied by registry/audit.
+项目执行周期,No,not_estimated,not found,Requires start/end or milestone dates; not supplied by registry/audit.

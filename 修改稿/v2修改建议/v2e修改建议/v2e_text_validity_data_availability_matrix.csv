@@ -1,0 +1,6 @@
+﻿task,requires_city_registry_or_threshold,current_action,available_source,reason
+人工双标注一致性,No,not_estimated,PPP_V2正式试编码结果.xlsx has trial scoring matrix but no two-coder paired labels found,Kappa/alpha require coder_1/coder_2 paired labels; pseudo registry/audit irrelevant.
+Cohen_kappa/Krippendorff_alpha,No,not_estimated,appendix_A4_text_validity_audit_template.* only empty template,No paired annotation data available.
+替代词典稳定性,No,evidence_inventory_only,正式词典、Word2Vec扩词、BERTopic outputs found,Can audit sources but should not be reported as kappa/alpha.
+主题稳定性,No,evidence_inventory_only,BERTopic similarity/topic assignment files found,Can describe robustness inventory; not a human validity coefficient.
+外部对照,No,not_estimated,not found,Requires external benchmark labels or independent measures.

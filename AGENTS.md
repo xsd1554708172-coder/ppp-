@@ -59,6 +59,7 @@ Default objective: improve empirical credibility, manuscript consistency, and re
 - If Git synchronization is needed in a future task, treat it as an explicit user action, not a default workflow step.
 
 ## Revision output conventions
+- From `v2e` onward, manuscript-facing Word `.docx` files must use Word formula editor / 公式编辑器 / Office Math objects for mathematical formulas; Markdown may keep text-only review notes but is not the formal formula-rendering source.
 - Across `v1*`, `v2*`, and later revision chains, the latest manuscript authority is always the newest `.docx` file.
 - Each completed revision round must output a manuscript-facing `.docx` and a synchronized `.md` archive copy; if a delivery bundle is produced, package it only after both files exist.
 - Each completed revision round must leave one independently openable `.docx` in the working directory or archive folder and include the same `.docx` inside the corresponding zip bundle.

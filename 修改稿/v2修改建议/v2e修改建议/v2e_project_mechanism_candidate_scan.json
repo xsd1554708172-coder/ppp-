@@ -1,0 +1,930 @@
+[
+  {
+    "file": "ppp论文数据\\99_历史说明与证据_勿引用\\PPP_v17估计闭合与入口洁净版_修正证据总表_20260413_0912.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "5_4重估结果",
+        "hits": [
+          "event_time"
+        ],
+        "columns": [
+          "outcome",
+          "event_time",
+          "event_order",
+          "coef",
+          "se",
+          "p",
+          "ci_low",
+          "ci_high",
+          "is_reference",
+          "panel_version",
+          "estimation_note"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\99_历史说明与证据_勿引用\\问题核对与修改落实清单_20260412_v3.csv",
+    "type": "csv",
+    "hits": [
+      "status"
+    ],
+    "columns": [
+      "issue",
+      "status",
+      "evidence"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\作图部分\\PPP_BERTopic主题相似性矩阵_py与数据包\\data\\PPP_BERTopic正式版_V2_四级十二类_实际执行版.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "年度主题分布",
+        "hits": [
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "14_行业_行业 主管部门_物有所值_采购"
+        ],
+        "columns": [
+          "year",
+          "0_四川省_四川省 财政厅_综合 补助_财政厅 四川省",
+          "1_证券化_资产 证券化_国家 发展_证券",
+          "2_模式 三年_三年_行动计划_三年 行动计划",
+          "3_局长_主任_领导小组_局局长",
+          "4_废止_财政厅 财政部_财金_文件目录",
+          "5_住房_管廊_污水处理_城乡",
+          "6_奖励_普惠_奖代补_普惠 金融",
+          "7_有利于_公共服务 供给_民营 资本_转变",
+          "8_运用_推广 运用_运用 政府_领导小组",
+          "9_专家_机构_咨询服务_咨询服务 机构",
+          "10_债务_预算_基金_政府 债务",
+          "11_绩效_综合信息 平台_综合信息_整改",
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "13_申报_第四批_第三批_申报 筛选",
+          "14_行业_行业 主管部门_物有所值_采购",
+          "15_改革 委员会_国家 发展_云南省_陕西省政府",
+          "16_运营 移交_移交_特许_经营",
+          "17_落户_人口_就业_城镇化",
+          "18_批复_工程_高速公路_公里",
+          "19_副局长_主任_领导小组_局长",
+          "20_民间_民间 投资_企业_政务",
+          "21_目标 社会_合理_运用_平等",
+          "22_运用_推广 运用_运用 政府_相对",
+          "23_风险_运用_承担_推广 运用"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\作图部分\\06_第8部分_作图内容\\input_data\\iv.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "候选IV筛查",
+        "hits": [
+          "candidate_iv"
+        ],
+        "columns": [
+          "candidate_iv",
+          "corr_with_treat_share",
+          "corr_with_pca_quality",
+          "corr_with_exec_share",
+          "corr_with_proc_share",
+          "screening",
+          "reason"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\作图部分\\01_第3部分_作图内容\\input_data\\part3_bertopic_results.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "年度主题分布",
+        "hits": [
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "14_行业_行业 主管部门_物有所值_采购"
+        ],
+        "columns": [
+          "year",
+          "0_四川省_四川省 财政厅_综合 补助_财政厅 四川省",
+          "1_证券化_资产 证券化_国家 发展_证券",
+          "2_模式 三年_三年_行动计划_三年 行动计划",
+          "3_局长_主任_领导小组_局局长",
+          "4_废止_财政厅 财政部_财金_文件目录",
+          "5_住房_管廊_污水处理_城乡",
+          "6_奖励_普惠_奖代补_普惠 金融",
+          "7_有利于_公共服务 供给_民营 资本_转变",
+          "8_运用_推广 运用_运用 政府_领导小组",
+          "9_专家_机构_咨询服务_咨询服务 机构",
+          "10_债务_预算_基金_政府 债务",
+          "11_绩效_综合信息 平台_综合信息_整改",
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "13_申报_第四批_第三批_申报 筛选",
+          "14_行业_行业 主管部门_物有所值_采购",
+          "15_改革 委员会_国家 发展_云南省_陕西省政府",
+          "16_运营 移交_移交_特许_经营",
+          "17_落户_人口_就业_城镇化",
+          "18_批复_工程_高速公路_公里",
+          "19_副局长_主任_领导小组_局长",
+          "20_民间_民间 投资_企业_政务",
+          "21_目标 社会_合理_运用_平等",
+          "22_运用_推广 运用_运用 政府_相对",
+          "23_风险_运用_承担_推广 运用"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\作图部分\\01_第3部分_作图内容\\input_data\\part3_dictionary_seed_words.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "类目摘要",
+        "hits": [
+          "入库词项数"
+        ],
+        "columns": [
+          "一级维度名称",
+          "二级代码",
+          "类目名称",
+          "入库词项数",
+          "文档频次均值",
+          "句群频次均值"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\99_历史说明与证据_勿引用\\历史结果镜像\\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0256.csv",
+    "type": "csv",
+    "hits": [
+      "采购方式"
+    ],
+    "columns": [
+      "项目索引",
+      "项目编号",
+      "ID",
+      "发起时间",
+      "year",
+      "项目名称",
+      "项目总投资",
+      "ln_invest",
+      "所在区域(省)",
+      "所在区域(市)",
+      "所在区域(县)",
+      "所属行业(一级行业)",
+      "所属行业(二级行业)",
+      "所处阶段",
+      "运作方式",
+      "回报机制",
+      "采购方式",
+      "财政承受能力论证结论",
+      "物有所值评价评估结论",
+      "项目概况",
+      "合作范围",
+      "批复意见",
+      "is_exec",
+      "is_proc",
+      "is_prep",
+      "fiscal_pass",
+      "vfm_pass",
+      "risk_text_count",
+      "risk_struct_clean",
+      "stable_project_derived_from_risk_struct_clean",
+      "target_use_flag",
+      "label_version"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\99_历史说明与证据_勿引用\\历史结果镜像\\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0256.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "full_data_10000",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ]
+      },
+      {
+        "sheet": "preview_first1000",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\99_历史说明与证据_勿引用\\历史结果镜像\\PPP_第5部分_5.4动态系数长表_V3_口径桥接版_20260413_0256.csv",
+    "type": "csv",
+    "hits": [
+      "event_time"
+    ],
+    "columns": [
+      "outcome",
+      "event_time",
+      "event_order",
+      "coef",
+      "se",
+      "p",
+      "ci_low",
+      "ci_high",
+      "is_reference"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\结果\\PPP_第9部分_严格版_6模型综合对比.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "预测样本_前500",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "ln_invest",
+          "year",
+          "risk_text_count",
+          "项目概况_len",
+          "合作范围_len",
+          "批复意见_len",
+          "所在区域(省)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "y_true",
+          "prob_Logistic",
+          "pred_Logistic",
+          "prob_RandomForest",
+          "pred_RandomForest",
+          "prob_XGBoost",
+          "pred_XGBoost",
+          "prob_LightGBM",
+          "pred_LightGBM",
+          "prob_CatBoost",
+          "pred_CatBoost",
+          "prob_Blending(RF+XGB+LGBM+CATB)",
+          "pred_Blending(RF+XGB+LGBM+CATB)"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\结果\\PPP_第9部分_严格版_6模型逐样本预测结果.csv",
+    "type": "csv",
+    "hits": [
+      "采购方式"
+    ],
+    "columns": [
+      "ln_invest",
+      "year",
+      "risk_text_count",
+      "项目概况_len",
+      "合作范围_len",
+      "批复意见_len",
+      "所在区域(省)",
+      "所属行业(一级行业)",
+      "所属行业(二级行业)",
+      "运作方式",
+      "回报机制",
+      "采购方式",
+      "y_true",
+      "prob_Logistic",
+      "pred_Logistic",
+      "prob_RandomForest",
+      "pred_RandomForest",
+      "prob_XGBoost",
+      "pred_XGBoost",
+      "prob_LightGBM",
+      "pred_LightGBM",
+      "prob_CatBoost",
+      "pred_CatBoost",
+      "prob_Blending(RF+XGB+LGBM+CATB)",
+      "pred_Blending(RF+XGB+LGBM+CATB)"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\（补充）项目级建模底表\\PPP_project_level_risk_model_data_v2_无泄漏严格版.csv",
+    "type": "csv",
+    "hits": [
+      "采购方式"
+    ],
+    "columns": [
+      "项目索引",
+      "项目编号",
+      "ID",
+      "发起时间",
+      "year",
+      "项目名称",
+      "项目总投资",
+      "ln_invest",
+      "所在区域(省)",
+      "所在区域(市)",
+      "所在区域(县)",
+      "所属行业(一级行业)",
+      "所属行业(二级行业)",
+      "所处阶段",
+      "运作方式",
+      "回报机制",
+      "采购方式",
+      "财政承受能力论证结论",
+      "物有所值评价评估结论",
+      "项目概况",
+      "合作范围",
+      "批复意见",
+      "is_exec",
+      "is_proc",
+      "is_prep",
+      "fiscal_pass",
+      "vfm_pass",
+      "risk_text_count",
+      "Risk",
+      "stable_project"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\（补充）项目级建模底表\\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.csv",
+    "type": "csv",
+    "hits": [
+      "采购方式"
+    ],
+    "columns": [
+      "项目索引",
+      "项目编号",
+      "ID",
+      "发起时间",
+      "year",
+      "项目名称",
+      "项目总投资",
+      "ln_invest",
+      "所在区域(省)",
+      "所在区域(市)",
+      "所在区域(县)",
+      "所属行业(一级行业)",
+      "所属行业(二级行业)",
+      "所处阶段",
+      "运作方式",
+      "回报机制",
+      "采购方式",
+      "财政承受能力论证结论",
+      "物有所值评价评估结论",
+      "项目概况",
+      "合作范围",
+      "批复意见",
+      "is_exec",
+      "is_proc",
+      "is_prep",
+      "fiscal_pass",
+      "vfm_pass",
+      "risk_text_count",
+      "risk_struct_clean",
+      "stable_project_derived_from_risk_struct_clean",
+      "target_use_flag",
+      "label_version"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\（补充）项目级建模底表\\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "full_data_10000",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ]
+      },
+      {
+        "sheet": "preview_first1000",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\（补充）项目级建模底表\\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_1048.csv",
+    "type": "csv",
+    "hits": [
+      "采购方式"
+    ],
+    "columns": [
+      "项目索引",
+      "项目编号",
+      "ID",
+      "发起时间",
+      "year",
+      "项目名称",
+      "项目总投资",
+      "ln_invest",
+      "所在区域(省)",
+      "所在区域(市)",
+      "所在区域(县)",
+      "所属行业(一级行业)",
+      "所属行业(二级行业)",
+      "所处阶段",
+      "运作方式",
+      "回报机制",
+      "采购方式",
+      "财政承受能力论证结论",
+      "物有所值评价评估结论",
+      "项目概况",
+      "合作范围",
+      "批复意见",
+      "is_exec",
+      "is_proc",
+      "is_prep",
+      "fiscal_pass",
+      "vfm_pass",
+      "risk_text_count",
+      "risk_struct_clean",
+      "stable_project_derived_from_risk_struct_clean",
+      "target_use_flag",
+      "label_version"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\02_第9部分_最终可用内容\\（补充）项目级建模底表\\PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_1048.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "full_data_10000",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ]
+      },
+      {
+        "sheet": "preview_first1000",
+        "hits": [
+          "采购方式"
+        ],
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第8部分_稳健性检验\\（8.5）工具变量_IV可行性评估\\PPP_第8部分_8.5IV可行性评估_V2_四级十二类_实际执行版.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "候选IV筛查",
+        "hits": [
+          "candidate_iv",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "abs_first_stage_t"
+        ],
+        "columns": [
+          "candidate_iv",
+          "n",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "exec_share_p",
+          "proc_share_p",
+          "ppp_quality_zindex_p",
+          "direct_effect_hits_p_lt_0_10",
+          "relevance",
+          "exclusion_concern",
+          "recommended_as_iv",
+          "notes",
+          "abs_first_stage_t",
+          "best_case_rank"
+        ]
+      },
+      {
+        "sheet": "第一阶段与直接效应明细",
+        "hits": [
+          "candidate_iv",
+          "stage"
+        ],
+        "columns": [
+          "candidate_iv",
+          "stage",
+          "outcome",
+          "coef",
+          "p_value",
+          "t_value",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第8部分_稳健性检验\\（8.5）工具变量_IV可行性评估\\PPP_第8部分_8.5IV可行性评估_V3_重估版_20260413_1048.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "全部结果",
+        "hits": [
+          "candidate_iv",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "abs_first_stage_t"
+        ],
+        "columns": [
+          "candidate_iv",
+          "n",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "exec_share_p",
+          "proc_share_p",
+          "ppp_quality_zindex_p",
+          "direct_effect_hits_p_lt_0_10",
+          "relevance",
+          "exclusion_concern",
+          "recommended_as_iv",
+          "notes",
+          "abs_first_stage_t",
+          "best_case_rank"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第8部分_稳健性检验\\（8.5）工具变量_IV可行性评估\\PPP_第8部分_8.5候选IV筛查长表_V2_四级十二类_实际执行版.csv",
+    "type": "csv",
+    "hits": [
+      "candidate_iv",
+      "first_stage_coef",
+      "first_stage_t",
+      "first_stage_p",
+      "abs_first_stage_t"
+    ],
+    "columns": [
+      "candidate_iv",
+      "n",
+      "first_stage_coef",
+      "first_stage_t",
+      "first_stage_p",
+      "exec_share_p",
+      "proc_share_p",
+      "ppp_quality_zindex_p",
+      "direct_effect_hits_p_lt_0_10",
+      "relevance",
+      "exclusion_concern",
+      "recommended_as_iv",
+      "notes",
+      "abs_first_stage_t",
+      "best_case_rank"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第8部分_稳健性检验\\（8.5）工具变量_IV可行性评估\\PPP_第8部分_8.5候选IV筛查长表_V3_重估版_20260413_1048.csv",
+    "type": "csv",
+    "hits": [
+      "candidate_iv",
+      "first_stage_coef",
+      "first_stage_t",
+      "first_stage_p",
+      "abs_first_stage_t"
+    ],
+    "columns": [
+      "candidate_iv",
+      "n",
+      "first_stage_coef",
+      "first_stage_t",
+      "first_stage_p",
+      "exec_share_p",
+      "proc_share_p",
+      "ppp_quality_zindex_p",
+      "direct_effect_hits_p_lt_0_10",
+      "relevance",
+      "exclusion_concern",
+      "recommended_as_iv",
+      "notes",
+      "abs_first_stage_t",
+      "best_case_rank"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第5部分_核心实证识别\\（5.4）事件研究法与平行趋势检验\\PPP_第5部分_5.4事件研究与平行趋势检验_V2_四级十二类_实际执行版.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "动态系数长表",
+        "hits": [
+          "event_time"
+        ],
+        "columns": [
+          "outcome",
+          "event_time",
+          "event_order",
+          "coef",
+          "se",
+          "p",
+          "ci_low",
+          "ci_high",
+          "is_reference"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第5部分_核心实证识别\\（5.4）事件研究法与平行趋势检验\\PPP_第5部分_5.4动态系数长表_V2_四级十二类_实际执行版.csv",
+    "type": "csv",
+    "hits": [
+      "event_time"
+    ],
+    "columns": [
+      "outcome",
+      "event_time",
+      "event_order",
+      "coef",
+      "se",
+      "p",
+      "ci_low",
+      "ci_high",
+      "is_reference"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第5部分_核心实证识别\\（5.4）事件研究法与平行趋势检验\\PPP_第5部分_5.4动态系数长表_V3_重估版_20260413_0912.csv",
+    "type": "csv",
+    "hits": [
+      "event_time"
+    ],
+    "columns": [
+      "outcome",
+      "event_time",
+      "event_order",
+      "coef",
+      "se",
+      "p",
+      "ci_low",
+      "ci_high",
+      "is_reference",
+      "panel_version",
+      "estimation_note"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第5部分_核心实证识别\\（5.4）事件研究法与平行趋势检验\\PPP_第5部分_5.4动态系数长表_V3_重估版_20260413_1048.csv",
+    "type": "csv",
+    "hits": [
+      "event_time"
+    ],
+    "columns": [
+      "outcome",
+      "event_time",
+      "event_order",
+      "coef",
+      "se",
+      "p",
+      "ci_low",
+      "ci_high",
+      "is_reference",
+      "panel_version",
+      "estimation_note"
+    ]
+  },
+  {
+    "file": "ppp论文数据\\01_第3到第8部分_最终修正版\\第3部分_文本分析总设计\\（3.4）BERTopic主题识别与主题解释映射\\PPP_BERTopic正式版_V2_四级十二类_实际执行版.xlsx",
+    "type": "xlsx",
+    "sheet_hits": [
+      {
+        "sheet": "年度主题分布",
+        "hits": [
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "14_行业_行业 主管部门_物有所值_采购"
+        ],
+        "columns": [
+          "year",
+          "0_四川省_四川省 财政厅_综合 补助_财政厅 四川省",
+          "1_证券化_资产 证券化_国家 发展_证券",
+          "2_模式 三年_三年_行动计划_三年 行动计划",
+          "3_局长_主任_领导小组_局局长",
+          "4_废止_财政厅 财政部_财金_文件目录",
+          "5_住房_管廊_污水处理_城乡",
+          "6_奖励_普惠_奖代补_普惠 金融",
+          "7_有利于_公共服务 供给_民营 资本_转变",
+          "8_运用_推广 运用_运用 政府_领导小组",
+          "9_专家_机构_咨询服务_咨询服务 机构",
+          "10_债务_预算_基金_政府 债务",
+          "11_绩效_综合信息 平台_综合信息_整改",
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "13_申报_第四批_第三批_申报 筛选",
+          "14_行业_行业 主管部门_物有所值_采购",
+          "15_改革 委员会_国家 发展_云南省_陕西省政府",
+          "16_运营 移交_移交_特许_经营",
+          "17_落户_人口_就业_城镇化",
+          "18_批复_工程_高速公路_公里",
+          "19_副局长_主任_领导小组_局长",
+          "20_民间_民间 投资_企业_政务",
+          "21_目标 社会_合理_运用_平等",
+          "22_运用_推广 运用_运用 政府_相对",
+          "23_风险_运用_承担_推广 运用"
+        ]
+      }
+    ]
+  }
+]

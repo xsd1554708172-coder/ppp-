@@ -1,0 +1,23 @@
+{
+  "audit_rows": 266,
+  "slot_rows": 2870,
+  "threshold_proxy_rows": 266,
+  "threshold_proxy_ok_rows": 258,
+  "year_summary_rows": 9,
+  "province_summary_rows": 32,
+  "project_disclosure_proxy_rows": 301,
+  "outputs": {
+    "threshold_proxy_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_working_threshold_proxy_from_province_year_audit.csv",
+    "threshold_proxy_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_working_threshold_proxy_from_province_year_audit.xlsx",
+    "year_summary_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_working_registry_analysis_by_year.csv",
+    "year_summary_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_working_registry_analysis_by_year.xlsx",
+    "province_summary_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_working_registry_analysis_by_province.csv",
+    "province_summary_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_working_registry_analysis_by_province.xlsx",
+    "mechanism_matrix_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_independent_mechanism_variable_availability_matrix.csv",
+    "mechanism_matrix_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_independent_mechanism_variable_availability_matrix.xlsx",
+    "text_matrix_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_text_validity_data_availability_matrix.csv",
+    "text_matrix_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_text_validity_data_availability_matrix.xlsx",
+    "project_disclosure_proxy_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_project_disclosure_completeness_proxy_by_province_year.csv",
+    "project_disclosure_proxy_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_project_disclosure_completeness_proxy_by_province_year.xlsx"
+  }
+}

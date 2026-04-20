@@ -26,7 +26,7 @@ This folder defines the one canonical baseline reference used across the paper.
 
 - Main panel: `PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_1048.csv`
 - Official baseline long table: `PPP_第5部分_5.3正式回归结果长表_V3_重估版_20260413_1048.csv`
-- Current manuscript anchor: `PPP论文_完整论文初稿_公共管理风格_修订版_定点替换_20260415.docx`
+- Current manuscript anchor: `PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_20260418_对象保留投稿版.docx`
 
 ## Manuscript-facing rule
 

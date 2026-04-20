@@ -1,0 +1,50 @@
+[
+  {
+    "module": "baseline_unified_reference",
+    "status": "success",
+    "exit_code": "0",
+    "script": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\PPP_empirical_reinforcement_bundle_20260416_unified_v3\\00_unified_baseline_reference\\scripts\\build_unified_baseline_reference.py",
+    "log": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\rerun_logs\\baseline_unified_reference.utf8.log",
+    "reason": ""
+  },
+  {
+    "module": "trend_adjusted_DID",
+    "status": "success",
+    "exit_code": "0",
+    "script": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\PPP_empirical_reinforcement_bundle_20260416_unified_v3\\01_trend_adjusted_DID\\scripts\\run_trend_adjusted_did.py",
+    "log": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\rerun_logs\\trend_adjusted_DID.utf8.log",
+    "reason": ""
+  },
+  {
+    "module": "leave_one_province_out",
+    "status": "success",
+    "exit_code": "0",
+    "script": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\PPP_empirical_reinforcement_bundle_20260416_unified_v3\\02_leave_one_province_out_jackknife\\scripts\\run_leave_one_province_out.py",
+    "log": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\rerun_logs\\leave_one_province_out.utf8.log",
+    "reason": ""
+  },
+  {
+    "module": "wild_cluster_bootstrap_summary",
+    "status": "success",
+    "exit_code": "0",
+    "script": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\PPP_empirical_reinforcement_bundle_20260416_unified_v3\\03_small_sample_inference_wild_cluster_bootstrap\\scripts\\summarize_small_sample_inference.py",
+    "log": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\rerun_logs\\wild_cluster_bootstrap_summary.utf8.log",
+    "reason": ""
+  },
+  {
+    "module": "robustness_defense_summary",
+    "status": "success",
+    "exit_code": "0",
+    "script": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\PPP_empirical_reinforcement_bundle_20260416_unified_v3\\04_manuscript_integration\\scripts\\build_robustness_defense_summary.py",
+    "log": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\rerun_logs\\robustness_defense_summary.utf8.log",
+    "reason": ""
+  },
+  {
+    "module": "log_ratio",
+    "status": "no_runnable_script_found",
+    "exit_code": "NA",
+    "script": "repo search: log.?ratio/log_ratio/log-ratio",
+    "log": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\rerun_logs\\log_ratio_search.utf8.log",
+    "reason": "python scripts found: 0"
+  }
+]

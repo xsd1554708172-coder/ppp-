@@ -1,0 +1,6633 @@
+[
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/00_input_mapping.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "标注",
+      "人工"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/01_revision_tasklist.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "披露",
+      "退库",
+      "在线",
+      "间隔",
+      "时长",
+      "标注",
+      "人工",
+      "词典",
+      "主题",
+      "文本效度",
+      "validity"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/02_verification_report.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "标注",
+      "人工",
+      "文本效度",
+      "validity",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/03_delivery_note.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "人工",
+      "文本效度",
+      "validity"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A0_A4_templates_codebook.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "公告",
+      "披露",
+      "退库",
+      "在线",
+      "周期",
+      "间隔",
+      "时长",
+      "kappa",
+      "alpha",
+      "标注",
+      "人工",
+      "词典",
+      "主题",
+      "文本效度",
+      "validity"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A2_treat_share_aggregation_audit_note.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "人工"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A4_text_validity_audit_template.csv",
+    "name_hits": [
+      "validity"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "doc_id",
+          "province",
+          "year",
+          "text_source",
+          "coder_1_label",
+          "coder_2_label",
+          "adjudicated_label",
+          "dictionary_version",
+          "topic_model_version",
+          "external_benchmark",
+          "note"
+        ],
+        "rows_sampled": 0
+      }
+    ]
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/appendix_A4_text_validity_audit_template.xlsx",
+    "name_hits": [
+      "validity"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "doc_id",
+          "province",
+          "year",
+          "text_source",
+          "coder_1_label",
+          "coder_2_label",
+          "adjudicated_label",
+          "dictionary_version",
+          "topic_model_version",
+          "external_benchmark",
+          "note"
+        ],
+        "rows_sampled": 0
+      }
+    ]
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_DID_14_literature_metadata_report.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "人工"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_DID_冲刺修订执行计划.md",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "公告",
+      "披露",
+      "退库",
+      "在线",
+      "周期",
+      "间隔",
+      "时长",
+      "kappa",
+      "alpha",
+      "标注",
+      "人工",
+      "词典",
+      "主题",
+      "validity"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_empirical_rerun_checklist.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "公告",
+      "披露",
+      "退库",
+      "在线",
+      "周期",
+      "间隔",
+      "时长",
+      "kappa",
+      "alpha",
+      "标注",
+      "人工",
+      "词典",
+      "主题",
+      "文本效度",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_implied_registry_construction_report.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "标注"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_literature_integration_patch.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "执行",
+      "公告",
+      "在线",
+      "时长"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_manuscript_patch.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "公告",
+      "披露",
+      "退库",
+      "在线",
+      "周期",
+      "间隔",
+      "时长",
+      "标注",
+      "文本效度",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2修改建议/v2e修改建议/v2e_rerun_result_snapshot.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2说明文件/v2d/02_verification_report.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2说明文件/v2d/03_delivery_note.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "人工",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2说明文件/v2d/appendix_B_log_ratio_note_20260418.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "修改稿/v2说明文件/v2d/PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_v2d_0419_1528.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "披露",
+      "在线",
+      "周期",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/codex_ppp_prompt_pack.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "标注",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/README.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/README_冲突裁决与修改基准说明_20260412.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/README_四级十二类替换清单.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "人工",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/README_总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/README_版本与口径统一说明_20260412_修订版.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/README_请先看_本次重新整理说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "标注"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/交接记忆内容_统一修正版_20260412.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/当前主引用文件索引_20260413_0912.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/当前主引用文件索引_20260413_1048.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/当前主引用文件索引_20260413_1231.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/最终采用文件清单.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "人工",
+      "词典",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/本次修正文件清单_20260412.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/本次删除文件清单_20260412.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "人工",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/作图部分/07_formal_v21_enhanced_figures/README.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "披露",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/作图部分/PPP_BERTopic主题相似性矩阵_py与数据包/README.txt",
+    "name_hits": [
+      "主题"
+    ],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/作图部分/PPP_BERTopic主题相似性矩阵_py与数据包/data/PPP_BERTopic主题相似性矩阵_V2_四级十二类_修正版.xlsx",
+    "name_hits": [
+      "主题"
+    ],
+    "col_hits": [
+      "热力图标签对照:主题编号",
+      "热力图标签对照:主题名称",
+      "热力图标签对照:映射一级主题名称",
+      "热力图标签对照:映射二级主题",
+      "主题元信息:主题编号",
+      "主题元信息:主题名称",
+      "主题元信息:映射一级主题名称",
+      "主题元信息:映射二级主题"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "相似性矩阵",
+        "columns": [
+          "Unnamed: 0",
+          "T17",
+          "T4",
+          "T3",
+          "T19",
+          "T9",
+          "T15",
+          "T10",
+          "T20",
+          "T6",
+          "T5",
+          "T18",
+          "T2",
+          "T0",
+          "T11",
+          "T1",
+          "T8",
+          "T14",
+          "T16",
+          "T7",
+          "T23",
+          "T21",
+          "T22",
+          "T12",
+          "T13"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "最相近主题对",
+        "columns": [
+          "topic_i",
+          "topic_i_name",
+          "topic_i_primary",
+          "topic_i_secondary",
+          "topic_j",
+          "topic_j_name",
+          "topic_j_primary",
+          "topic_j_secondary",
+          "cosine_similarity"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "热力图标签对照",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "映射一级主题名称",
+          "映射二级主题",
+          "文档数",
+          "heatmap_label"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "主题元信息",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "映射一级主题名称",
+          "映射二级主题",
+          "文档数"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/PPP_BERTopic主题相似性矩阵_py与数据包/data/PPP_BERTopic文档主题分配_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行",
+      "主题"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "province",
+          "year",
+          "文件名",
+          "topic",
+          "topic_name",
+          "topic_main_dimension",
+          "topic_secondary_code",
+          "topic_secondary_name",
+          "topic_match_strength"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/PPP_BERTopic主题相似性矩阵_py与数据包/data/PPP_BERTopic正式版_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行",
+      "主题"
+    ],
+    "col_hits": [
+      "主题总表:主题编号",
+      "主题总表:主题名称",
+      "主题总表:映射一级主题",
+      "主题总表:映射一级主题名称",
+      "主题总表:映射二级主题",
+      "主题映射:主题编号",
+      "主题映射:主题名称",
+      "主题映射:映射二级主题",
+      "主题映射:映射一级主题",
+      "主题映射:映射一级主题名称",
+      "代表性文本:主题编号",
+      "代表性文本:主题名称",
+      "年度主题分布:14_行业_行业 主管部门_物有所值_采购"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "主题总表",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "文档数",
+          "占比",
+          "Top_Words",
+          "Top_Word_Scores",
+          "映射一级主题",
+          "映射一级主题名称",
+          "映射二级代码",
+          "映射二级主题",
+          "匹配得分"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "主题映射",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "映射二级代码",
+          "映射二级主题",
+          "映射一级主题",
+          "映射一级主题名称",
+          "匹配得分",
+          "命中词示例",
+          "Top_Words",
+          "代表文本摘要"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "代表性文本",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "代表文本序号",
+          "序号",
+          "province",
+          "year",
+          "文件名",
+          "代表文本"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "年度主题分布",
+        "columns": [
+          "year",
+          "0_四川省_四川省 财政厅_综合 补助_财政厅 四川省",
+          "1_证券化_资产 证券化_国家 发展_证券",
+          "2_模式 三年_三年_行动计划_三年 行动计划",
+          "3_局长_主任_领导小组_局局长",
+          "4_废止_财政厅 财政部_财金_文件目录",
+          "5_住房_管廊_污水处理_城乡",
+          "6_奖励_普惠_奖代补_普惠 金融",
+          "7_有利于_公共服务 供给_民营 资本_转变",
+          "8_运用_推广 运用_运用 政府_领导小组",
+          "9_专家_机构_咨询服务_咨询服务 机构",
+          "10_债务_预算_基金_政府 债务",
+          "11_绩效_综合信息 平台_综合信息_整改",
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "13_申报_第四批_第三批_申报 筛选",
+          "14_行业_行业 主管部门_物有所值_采购",
+          "15_改革 委员会_国家 发展_云南省_陕西省政府",
+          "16_运营 移交_移交_特许_经营",
+          "17_落户_人口_就业_城镇化",
+          "18_批复_工程_高速公路_公里",
+          "19_副局长_主任_领导小组_局长",
+          "20_民间_民间 投资_企业_政务",
+          "21_目标 社会_合理_运用_平等",
+          "22_运用_推广 运用_运用 政府_相对",
+          "23_风险_运用_承担_推广 运用"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "方法说明",
+        "columns": [
+          "项目",
+          "值"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/PPP_BERTopic主题相似性矩阵_py与数据包/data/PPP_政策文本整合结果_1472篇.csv",
+    "name_hits": [
+      "主题"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "一级子文件夹",
+          "相对路径",
+          "文件名",
+          "文件内容"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/PPP_BERTopic主题相似性矩阵_py与数据包/outputs/PPP_BERTopic主题相似性矩阵_官方GnBu冰蓝版_标签对照.xlsx",
+    "name_hits": [
+      "主题"
+    ],
+    "col_hits": [
+      "Sheet1:主题编号",
+      "Sheet1:主题名称",
+      "Sheet1:映射一级主题名称",
+      "Sheet1:映射二级主题"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "映射一级主题名称",
+          "映射二级主题",
+          "文档数",
+          "heatmap_label"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/06_第8部分_作图内容/input_data/baseline.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "回归样本核心变量:exec_share",
+      "回归样本核心变量:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "回归样本核心变量",
+        "columns": [
+          "province",
+          "year",
+          "ppp_quality_zindex",
+          "ppp_quality_pca_rebuilt",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "dfi",
+          "digital_econ",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/06_第8部分_作图内容/input_data/dml.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "fold_ppp_quality_pca_rebu:alpha_y",
+      "fold_ppp_quality_pca_rebu:alpha_d",
+      "fold_exec_share:alpha_y",
+      "fold_exec_share:alpha_d",
+      "fold_proc_share:alpha_y",
+      "fold_proc_share:alpha_d"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "fold_ppp_quality_pca_rebu",
+        "columns": [
+          "fold",
+          "n_train",
+          "n_test",
+          "alpha_y",
+          "alpha_d",
+          "nonzero_y",
+          "nonzero_d"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "fold_exec_share",
+        "columns": [
+          "fold",
+          "n_train",
+          "n_test",
+          "alpha_y",
+          "alpha_d",
+          "nonzero_y",
+          "nonzero_d"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "fold_proc_share",
+        "columns": [
+          "fold",
+          "n_train",
+          "n_test",
+          "alpha_y",
+          "alpha_d",
+          "nonzero_y",
+          "nonzero_d"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/06_第8部分_作图内容/input_data/iv.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "候选IV筛查:corr_with_exec_share",
+      "候选IV筛查:corr_with_proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "候选IV筛查",
+        "columns": [
+          "candidate_iv",
+          "corr_with_treat_share",
+          "corr_with_pca_quality",
+          "corr_with_exec_share",
+          "corr_with_proc_share",
+          "screening",
+          "reason"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/06_第8部分_作图内容/input_data/psm.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "共同支撑样本:L1_exec_share",
+      "共同支撑样本:L1_proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "共同支撑样本",
+        "columns": [
+          "province",
+          "year",
+          "did_any",
+          "pscore",
+          "L1_dfi",
+          "L1_digital_econ",
+          "L1_ln_rd_expenditure",
+          "L1_ln_tech_contract_value",
+          "L1_ln_patent_grants",
+          "L1_exec_share",
+          "L1_proc_share",
+          "L1_prep_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/05_第7部分_作图内容/input_data/README_source_cn.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/作图部分/04_第6部分_作图内容/input_data/part5_baseline_did.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "回归样本核心变量:exec_share",
+      "回归样本核心变量:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "回归样本核心变量",
+        "columns": [
+          "province",
+          "year",
+          "ppp_quality_zindex",
+          "ppp_quality_pca_rebuilt",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "dfi",
+          "digital_econ",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/03_第5部分_作图内容/input_data/part5_baseline_did.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "回归样本核心变量:exec_share",
+      "回归样本核心变量:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "回归样本核心变量",
+        "columns": [
+          "province",
+          "year",
+          "ppp_quality_zindex",
+          "ppp_quality_pca_rebuilt",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "dfi",
+          "digital_econ",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/03_第5部分_作图内容/input_data/part5_descriptive_diagnostics.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "年份结构:mean_exec_share",
+      "年份结构:mean_proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "年份结构",
+        "columns": [
+          "year",
+          "obs_n",
+          "province_n",
+          "mean_did_intensity",
+          "mean_treat_share",
+          "mean_exec_share",
+          "mean_proc_share",
+          "mean_quality"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/03_第5部分_作图内容/input_data/part5_model_ready_panel.csv",
+    "name_hits": [],
+    "col_hits": [
+      "exec_share",
+      "proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "ppp_quality_pca",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/03_第5部分_作图内容/input_data/part5_model_specs.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "model_ready_panel:exec_share",
+      "model_ready_panel:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "model_ready_panel",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "ppp_quality_pca",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "A_idx",
+          "B_idx",
+          "C_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "A1_idx",
+          "A2_idx",
+          "B1_idx",
+          "B2_idx",
+          "B3_idx",
+          "B4_idx",
+          "C1_idx",
+          "C2_idx",
+          "C3_idx",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/作图部分/01_第3部分_作图内容/input_data/part3_bertopic_results.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "主题总表:主题编号",
+      "主题总表:主题名称",
+      "主题总表:映射一级主题",
+      "主题总表:映射一级主题名称",
+      "主题总表:映射二级主题",
+      "主题映射:主题编号",
+      "主题映射:主题名称",
+      "主题映射:映射二级主题",
+      "主题映射:映射一级主题",
+      "主题映射:映射一级主题名称",
+      "代表性文本:主题编号",
+      "代表性文本:主题名称",
+      "年度主题分布:14_行业_行业 主管部门_物有所值_采购"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "主题总表",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "文档数",
+          "占比",
+          "Top_Words",
+          "Top_Word_Scores",
+          "映射一级主题",
+          "映射一级主题名称",
+          "映射二级代码",
+          "映射二级主题",
+          "匹配得分"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "主题映射",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "映射二级代码",
+          "映射二级主题",
+          "映射一级主题",
+          "映射一级主题名称",
+          "匹配得分",
+          "命中词示例",
+          "Top_Words",
+          "代表文本摘要"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "代表性文本",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "代表文本序号",
+          "序号",
+          "province",
+          "year",
+          "文件名",
+          "代表文本"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "年度主题分布",
+        "columns": [
+          "year",
+          "0_四川省_四川省 财政厅_综合 补助_财政厅 四川省",
+          "1_证券化_资产 证券化_国家 发展_证券",
+          "2_模式 三年_三年_行动计划_三年 行动计划",
+          "3_局长_主任_领导小组_局局长",
+          "4_废止_财政厅 财政部_财金_文件目录",
+          "5_住房_管廊_污水处理_城乡",
+          "6_奖励_普惠_奖代补_普惠 金融",
+          "7_有利于_公共服务 供给_民营 资本_转变",
+          "8_运用_推广 运用_运用 政府_领导小组",
+          "9_专家_机构_咨询服务_咨询服务 机构",
+          "10_债务_预算_基金_政府 债务",
+          "11_绩效_综合信息 平台_综合信息_整改",
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "13_申报_第四批_第三批_申报 筛选",
+          "14_行业_行业 主管部门_物有所值_采购",
+          "15_改革 委员会_国家 发展_云南省_陕西省政府",
+          "16_运营 移交_移交_特许_经营",
+          "17_落户_人口_就业_城镇化",
+          "18_批复_工程_高速公路_公里",
+          "19_副局长_主任_领导小组_局长",
+          "20_民间_民间 投资_企业_政务",
+          "21_目标 社会_合理_运用_平等",
+          "22_运用_推广 运用_运用 政府_相对",
+          "23_风险_运用_承担_推广 运用"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_0256.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "exec_share",
+      "proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_0256.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "panel_v3:exec_share",
+      "panel_v3:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "panel_v3",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "sample_screen",
+        "columns": [
+          "步骤",
+          "指标",
+          "数值",
+          "说明"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "dropped_from_266_to_262",
+        "columns": [
+          "province",
+          "year",
+          "dfi",
+          "digital_econ",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "缺失原因"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "audit_only_variables",
+        "columns": [
+          "province",
+          "year",
+          "ppp_quality_pca_raw_empty_audit_only"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "estimate_scope_note",
+        "columns": [
+          "层级",
+          "口径",
+          "说明"
+        ],
+        "rows_sampled": 4
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/PPP_doc_level_variables_v3_DID主识别窗口_2014_2022_地方样本_实际执行版_20260413_0256.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "一级子文件夹",
+          "province",
+          "相对路径",
+          "文件名",
+          "year",
+          "topic",
+          "topic_name",
+          "topic_main_dimension",
+          "topic_secondary_code",
+          "topic_secondary_name",
+          "topic_match_strength",
+          "char_len",
+          "sentence_count",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "z_A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "z_B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "z_C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "z_D_idx",
+          "D_share",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0256.csv",
+    "name_hits": [],
+    "col_hits": [
+      "采购方式",
+      "is_exec",
+      "is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0256.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "full_data_10000:采购方式",
+      "full_data_10000:is_exec",
+      "full_data_10000:is_proc",
+      "preview_first1000:采购方式",
+      "preview_first1000:is_exec",
+      "preview_first1000:is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "full_data_10000",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "preview_first1000",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/PPP_province_year_variables_v3_DID主识别窗口_方案2_平衡口径_实际执行版_20260413_0256.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx",
+          "z_B_idx",
+          "z_C_idx",
+          "z_D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share",
+          "topic_14_share",
+          "topic_15_share",
+          "topic_16_share",
+          "topic_17_share",
+          "topic_18_share",
+          "topic_19_share",
+          "topic_20_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/99_历史说明与证据_勿引用/历史结果镜像/当前主引用文件索引_20260413_0256.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/结果/PPP_第9部分_严格版_6模型综合对比.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "预测样本_前500:采购方式"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "预测样本_前500",
+        "columns": [
+          "ln_invest",
+          "year",
+          "risk_text_count",
+          "项目概况_len",
+          "合作范围_len",
+          "批复意见_len",
+          "所在区域(省)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "y_true",
+          "prob_Logistic",
+          "pred_Logistic",
+          "prob_RandomForest",
+          "pred_RandomForest",
+          "prob_XGBoost",
+          "pred_XGBoost",
+          "prob_LightGBM",
+          "pred_LightGBM",
+          "prob_CatBoost",
+          "pred_CatBoost",
+          "prob_Blending(RF+XGB+LGBM+CATB)",
+          "pred_Blending(RF+XGB+LGBM+CATB)"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/结果/PPP_第9部分_严格版_6模型逐样本预测结果.csv",
+    "name_hits": [],
+    "col_hits": [
+      "采购方式"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "ln_invest",
+          "year",
+          "risk_text_count",
+          "项目概况_len",
+          "合作范围_len",
+          "批复意见_len",
+          "所在区域(省)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "y_true",
+          "prob_Logistic",
+          "pred_Logistic",
+          "prob_RandomForest",
+          "pred_RandomForest",
+          "prob_XGBoost",
+          "pred_XGBoost",
+          "prob_LightGBM",
+          "pred_LightGBM",
+          "prob_CatBoost",
+          "pred_CatBoost",
+          "prob_Blending(RF+XGB+LGBM+CATB)",
+          "pred_Blending(RF+XGB+LGBM+CATB)"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/（补充）项目级建模底表/PPP_project_level_risk_model_data_v2_无泄漏严格版.csv",
+    "name_hits": [],
+    "col_hits": [
+      "采购方式",
+      "is_exec",
+      "is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "Risk",
+          "stable_project"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/（补充）项目级建模底表/PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.csv",
+    "name_hits": [],
+    "col_hits": [
+      "采购方式",
+      "is_exec",
+      "is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/（补充）项目级建模底表/PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_0912.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "full_data_10000:采购方式",
+      "full_data_10000:is_exec",
+      "full_data_10000:is_proc",
+      "preview_first1000:采购方式",
+      "preview_first1000:is_exec",
+      "preview_first1000:is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "full_data_10000",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "preview_first1000",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/（补充）项目级建模底表/PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_1048.csv",
+    "name_hits": [],
+    "col_hits": [
+      "采购方式",
+      "is_exec",
+      "is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/02_第9部分_最终可用内容/（补充）项目级建模底表/PPP_project_level_risk_model_data_v3_无泄漏严格版_标签统一_20260413_1048.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "full_data_10000:采购方式",
+      "full_data_10000:is_exec",
+      "full_data_10000:is_proc",
+      "preview_first1000:采购方式",
+      "preview_first1000:is_exec",
+      "preview_first1000:is_proc"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "full_data_10000",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "preview_first1000",
+        "columns": [
+          "项目索引",
+          "项目编号",
+          "ID",
+          "发起时间",
+          "year",
+          "项目名称",
+          "项目总投资",
+          "ln_invest",
+          "所在区域(省)",
+          "所在区域(市)",
+          "所在区域(县)",
+          "所属行业(一级行业)",
+          "所属行业(二级行业)",
+          "所处阶段",
+          "运作方式",
+          "回报机制",
+          "采购方式",
+          "财政承受能力论证结论",
+          "物有所值评价评估结论",
+          "项目概况",
+          "合作范围",
+          "批复意见",
+          "is_exec",
+          "is_proc",
+          "is_prep",
+          "fiscal_pass",
+          "vfm_pass",
+          "risk_text_count",
+          "risk_struct_clean",
+          "stable_project_derived_from_risk_struct_clean",
+          "target_use_flag",
+          "label_version"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/97_当前主引用文件索引/当前主引用文件索引_20260413_1345.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/README_四级十二类重建说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "词典",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/README_本部分文件总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "人工",
+      "词典",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/README_本部分文件总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/README_本部分文件总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/README_本部分文件总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/README_本部分文件总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/README_本部分文件总说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.1-8.3）常规稳健性/PPP_第8部分_8.1-8.3常规稳健性_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "核心结论",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "全部稳健性结果",
+        "columns": [
+          "depvar",
+          "spec",
+          "note",
+          "did_var",
+          "N",
+          "province_n",
+          "coef",
+          "se",
+          "t",
+          "p",
+          "r2",
+          "mean_dep",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls",
+          "coef_star",
+          "se_fmt"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "主规格摘要",
+        "columns": [
+          "depvar",
+          "baseline_treat_share",
+          "baseline_p",
+          "lagged_controls_treat_share",
+          "lagged_p",
+          "drop_extreme_years_treat_share",
+          "drop_extreme_years_p",
+          "drop_special_regions_treat_share",
+          "drop_special_regions_p",
+          "text_threshold_treat_share",
+          "text_threshold_p",
+          "main_reading"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "规格说明",
+        "columns": [
+          "spec",
+          "note",
+          "raw_rows",
+          "raw_province_n",
+          "did_var",
+          "controls"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "缺位虚拟变量控制_20260412",
+        "columns": [
+          "outcome",
+          "n",
+          "coef_treat_share",
+          "p_treat_share",
+          "coef_text_missing_dummy",
+          "p_text_missing_dummy",
+          "r2"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.1-8.3）常规稳健性/PPP_第8部分_8.1-8.3常规稳健性结果长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "depvar",
+          "spec",
+          "note",
+          "did_var",
+          "N",
+          "province_n",
+          "coef",
+          "se",
+          "t",
+          "p",
+          "r2",
+          "mean_dep",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls",
+          "coef_star",
+          "se_fmt"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.1-8.3）常规稳健性/README_四级十二类_8.1-8.3说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.1-8.3）常规稳健性/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.4）PSM-DID/PPP_第8部分_8.4PSM-DID_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "匹配样本概览:exec_share",
+      "匹配样本概览:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "核心结论",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "省级匹配结果",
+        "columns": [
+          "treated_province",
+          "matched_control",
+          "treated_pscore",
+          "control_pscore",
+          "abs_gap"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "平衡性诊断",
+        "columns": [
+          "var",
+          "smd_before",
+          "smd_after"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "matched_DID结果",
+        "columns": [
+          "outcome",
+          "treatment",
+          "coef",
+          "se",
+          "p",
+          "n",
+          "r2",
+          "sig",
+          "coef_fmt",
+          "p_fmt",
+          "spec",
+          "match_method",
+          "support_note"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "匹配样本概览",
+        "columns": [
+          "province",
+          "year",
+          "did_any",
+          "treat_share",
+          "post",
+          "exec_share",
+          "proc_share",
+          "ppp_quality_zindex",
+          "vfm_pass_rate"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.4）PSM-DID/PPP_第8部分_8.4PSM-DID结果长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "treatment",
+          "coef",
+          "se",
+          "p",
+          "n",
+          "r2",
+          "sig",
+          "coef_fmt",
+          "p_fmt",
+          "spec",
+          "match_method",
+          "support_note"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.4）PSM-DID/README_四级十二类_8.4说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.4）PSM-DID/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.5）工具变量_IV可行性评估/PPP_第8部分_8.5IV可行性评估_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "候选IV筛查:exec_share_p",
+      "候选IV筛查:proc_share_p"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "核心结论",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "候选IV筛查",
+        "columns": [
+          "candidate_iv",
+          "n",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "exec_share_p",
+          "proc_share_p",
+          "ppp_quality_zindex_p",
+          "direct_effect_hits_p_lt_0_10",
+          "relevance",
+          "exclusion_concern",
+          "recommended_as_iv",
+          "notes",
+          "abs_first_stage_t",
+          "best_case_rank"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "第一阶段与直接效应明细",
+        "columns": [
+          "candidate_iv",
+          "stage",
+          "outcome",
+          "coef",
+          "p_value",
+          "t_value",
+          "n"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "是否实施IV",
+        "columns": [
+          "问题",
+          "回答"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "IV裁决_20260412",
+        "columns": [
+          "项目",
+          "当前统一写法"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.5）工具变量_IV可行性评估/PPP_第8部分_8.5IV可行性评估_V3_重估版_20260413_1048.xlsx",
+    "name_hits": [],
+    "col_hits": [
+      "全部结果:exec_share_p",
+      "全部结果:proc_share_p"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "全部结果",
+        "columns": [
+          "candidate_iv",
+          "n",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "exec_share_p",
+          "proc_share_p",
+          "ppp_quality_zindex_p",
+          "direct_effect_hits_p_lt_0_10",
+          "relevance",
+          "exclusion_concern",
+          "recommended_as_iv",
+          "notes",
+          "abs_first_stage_t",
+          "best_case_rank"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.5）工具变量_IV可行性评估/PPP_第8部分_8.5候选IV筛查长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "exec_share_p",
+      "proc_share_p"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "candidate_iv",
+          "n",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "exec_share_p",
+          "proc_share_p",
+          "ppp_quality_zindex_p",
+          "direct_effect_hits_p_lt_0_10",
+          "relevance",
+          "exclusion_concern",
+          "recommended_as_iv",
+          "notes",
+          "abs_first_stage_t",
+          "best_case_rank"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.5）工具变量_IV可行性评估/PPP_第8部分_8.5候选IV筛查长表_V3_重估版_20260413_1048.csv",
+    "name_hits": [],
+    "col_hits": [
+      "exec_share_p",
+      "proc_share_p"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "candidate_iv",
+          "n",
+          "first_stage_coef",
+          "first_stage_t",
+          "first_stage_p",
+          "exec_share_p",
+          "proc_share_p",
+          "ppp_quality_zindex_p",
+          "direct_effect_hits_p_lt_0_10",
+          "relevance",
+          "exclusion_concern",
+          "recommended_as_iv",
+          "notes",
+          "abs_first_stage_t",
+          "best_case_rank"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.5）工具变量_IV可行性评估/README_四级十二类_8.5说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.5）工具变量_IV可行性评估/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.6）DML高维稳健性检验/PPP_第8部分_8.6DML稳健性检验_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "分析说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "DML结果汇总",
+        "columns": [
+          "outcome",
+          "N",
+          "dml_coef",
+          "dml_se_cluster_province",
+          "dml_pvalue",
+          "ci95_low",
+          "ci95_high",
+          "mean_abs_y_resid",
+          "mean_abs_d_resid",
+          "folds",
+          "x_num_features",
+          "x_topic_features",
+          "x_text_idx_features",
+          "baseline_twfe_coef",
+          "baseline_twfe_p",
+          "baseline_twfe_N",
+          "direction_consistent"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "fold_diagnostics",
+        "columns": [
+          "outcome",
+          "fold",
+          "train_n",
+          "test_n",
+          "y_r2_test",
+          "d_r2_test",
+          "y_rmse_test",
+          "d_rmse_test",
+          "mean_treat_train",
+          "mean_treat_test"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "fold_summary",
+        "columns": [
+          "outcome",
+          "folds",
+          "mean_y_r2",
+          "min_y_r2",
+          "max_y_r2",
+          "mean_d_r2",
+          "min_d_r2",
+          "max_d_r2",
+          "mean_y_rmse",
+          "mean_d_rmse"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "residual_sample",
+        "columns": [
+          "outcome",
+          "province",
+          "y",
+          "d",
+          "y_resid",
+          "d_resid"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.6）DML高维稳健性检验/PPP_第8部分_8.6DML结果汇总_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "N",
+          "dml_coef",
+          "dml_se_cluster_province",
+          "dml_pvalue",
+          "ci95_low",
+          "ci95_high",
+          "mean_abs_y_resid",
+          "mean_abs_d_resid",
+          "folds",
+          "x_num_features",
+          "x_topic_features",
+          "x_text_idx_features",
+          "baseline_twfe_coef",
+          "baseline_twfe_p",
+          "baseline_twfe_N",
+          "direction_consistent"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.6）DML高维稳健性检验/README_四级十二类_8.6说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第8部分_稳健性检验/（8.6）DML高维稳健性检验/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.1-7.4）区域_数字基础_治理基础异质性/PPP_第7部分_7.1-7.4交互项摘要_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "block",
+          "outcome",
+          "term",
+          "coef",
+          "p_value",
+          "N"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.1-7.4）区域_数字基础_治理基础异质性/PPP_第7部分_7.1-7.4异质性分析_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "分析说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "全部异质性结果",
+        "columns": [
+          "block",
+          "group_var",
+          "group",
+          "outcome",
+          "coef_treat_share",
+          "p_treat_share",
+          "N"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "交互项摘要",
+        "columns": [
+          "block",
+          "outcome",
+          "term",
+          "coef",
+          "p_value",
+          "N"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "组别效应换算",
+        "columns": [
+          "block",
+          "outcome",
+          "group",
+          "effect",
+          "group_or_interaction_p"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "结果阅读提示",
+        "columns": [
+          "outcome",
+          "reading"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.1-7.4）区域_数字基础_治理基础异质性/README_四级十二类_7.1-7.4说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.1-7.4）区域_数字基础_治理基础异质性/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.5）PPP风险暴露异质性/PPP_第7部分_7.5交互项摘要_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "baseline_low_group_coef",
+          "baseline_low_group_p",
+          "interaction_coef",
+          "interaction_p",
+          "implied_high_group_coef",
+          "implied_high_group_p",
+          "N",
+          "interpretation"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.5）PPP风险暴露异质性/PPP_第7部分_7.5风险暴露异质性_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "分析说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "全部异质性结果",
+        "columns": [
+          "outcome",
+          "spec",
+          "term",
+          "coef",
+          "se",
+          "p",
+          "N",
+          "n_provinces"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "交互项摘要",
+        "columns": [
+          "outcome",
+          "baseline_low_group_coef",
+          "baseline_low_group_p",
+          "interaction_coef",
+          "interaction_p",
+          "implied_high_group_coef",
+          "implied_high_group_p",
+          "N",
+          "interpretation"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "组别效应换算",
+        "columns": [
+          "outcome",
+          "coef_High",
+          "coef_Low",
+          "p_High",
+          "p_Low",
+          "N_High",
+          "N_Low",
+          "difference_high_minus_low"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "风险暴露分组",
+        "columns": [
+          "province",
+          "pre_risk_exposure",
+          "high_risk_exposure",
+          "group_label",
+          "threshold_median"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.5）PPP风险暴露异质性/README_四级十二类_7.5说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.5）PPP风险暴露异质性/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.6）政府数据开放度异质性/PPP_第7部分_7.6交互项摘要_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "low_group_effect",
+          "low_group_p",
+          "interaction_coef",
+          "interaction_p",
+          "high_group_effect",
+          "high_group_p",
+          "N"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.6）政府数据开放度异质性/PPP_第7部分_7.6政府数据开放度异质性_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "分析说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "全部异质性结果",
+        "columns": [
+          "outcome",
+          "term",
+          "coef",
+          "se",
+          "p",
+          "N"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "交互项摘要",
+        "columns": [
+          "outcome",
+          "low_group_effect",
+          "low_group_p",
+          "interaction_coef",
+          "interaction_p",
+          "high_group_effect",
+          "high_group_p",
+          "N"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "组别效应换算",
+        "columns": [
+          "outcome",
+          "group",
+          "coef",
+          "p",
+          "N"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "开放度分组",
+        "columns": [
+          "province",
+          "gov_open_proxy_pre",
+          "high_gov_open",
+          "group_label"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.6）政府数据开放度异质性/README_四级十二类_7.6说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第7部分_异质性分析/（7.6）政府数据开放度异质性/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.1-6.4）机制检验主体与多机制比较/PPP_第6部分_6.1-6.4机制检验_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "核心结论",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "一阶段机制回归",
+        "columns": [
+          "mediator",
+          "did_var",
+          "N",
+          "coef_did",
+          "se_did",
+          "p_did",
+          "r2",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "一阶段系数汇总",
+        "columns": [
+          "mediator",
+          "did_any",
+          "did_intensity",
+          "treat_share"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "一阶段p值汇总",
+        "columns": [
+          "mediator",
+          "did_any",
+          "did_intensity",
+          "treat_share"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "结果方程_含中介",
+        "columns": [
+          "outcome",
+          "mediator",
+          "did_var",
+          "N",
+          "coef_did",
+          "p_did",
+          "coef_mediator",
+          "p_mediator",
+          "r2",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.1-6.4）机制检验主体与多机制比较/PPP_第6部分_6.1-6.4结果方程含中介_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "mediator",
+          "did_var",
+          "N",
+          "coef_did",
+          "p_did",
+          "coef_mediator",
+          "p_mediator",
+          "r2",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.1-6.4）机制检验主体与多机制比较/README_四级十二类_6.1-6.4说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.1-6.4）机制检验主体与多机制比较/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.5）链式机制检验/PPP_第6部分_6.5链式机制检验_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "核心结论",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "链式方程结果",
+        "columns": [
+          "equation",
+          "dependent",
+          "variable",
+          "coef",
+          "se",
+          "t",
+          "p",
+          "N",
+          "r2",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "关键路径汇总",
+        "columns": [
+          "path",
+          "coef",
+          "p",
+          "is_significant",
+          "interpretation"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "模型摘要",
+        "columns": [
+          "equation",
+          "dependent",
+          "N",
+          "r2",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "写作建议",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.5）链式机制检验/PPP_第6部分_6.5链式机制路径长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "equation",
+          "dependent",
+          "variable",
+          "coef",
+          "se",
+          "t",
+          "p",
+          "N",
+          "r2",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.5）链式机制检验/README_四级十二类_6.5说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.5）链式机制检验/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.6）严格中介效应分解/PPP_第6部分_6.6严格中介效应分解_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "分析说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "Sobel_OriginalBootstrap",
+        "columns": [
+          "outcome",
+          "mediator",
+          "N",
+          "a",
+          "a_se_cluster",
+          "a_p",
+          "b",
+          "b_se_cluster",
+          "b_p",
+          "indirect_effect_ab",
+          "c_total",
+          "c_total_p",
+          "c_direct",
+          "c_direct_p",
+          "sobel_se",
+          "sobel_z",
+          "sobel_p",
+          "boot_mean",
+          "boot_se",
+          "boot_ci_low",
+          "boot_ci_high",
+          "boot_p_sign",
+          "bootstrap_reps",
+          "cluster_unit",
+          "fe"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "Bootstrap分布长表",
+        "columns": [
+          "outcome",
+          "bootstrap_indirect_ab",
+          "rep"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "结果摘要",
+        "columns": [
+          "outcome",
+          "indirect_effect_ab",
+          "sobel_p",
+          "boot_ci_low",
+          "boot_ci_high",
+          "结论"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "写作边界_20260412",
+        "columns": [
+          "项目",
+          "说明"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.6）严格中介效应分解/PPP_第6部分_6.6严格中介效应分解结果长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "mediator",
+          "N",
+          "a",
+          "a_se_cluster",
+          "a_p",
+          "b",
+          "b_se_cluster",
+          "b_p",
+          "indirect_effect_ab",
+          "c_total",
+          "c_total_p",
+          "c_direct",
+          "c_direct_p",
+          "sobel_se",
+          "sobel_z",
+          "sobel_p",
+          "boot_mean",
+          "boot_se",
+          "boot_ci_low",
+          "boot_ci_high",
+          "boot_p_sign",
+          "bootstrap_reps",
+          "cluster_unit",
+          "fe"
+        ],
+        "rows_sampled": 3
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第6部分_机制检验/（6.6）严格中介效应分解/README_四级十二类_6.6说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6_model_ready_panel_v2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "exec_share",
+      "proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "ppp_quality_pca",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_0912.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "exec_share",
+      "proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_0912.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "panel_v3:exec_share",
+      "panel_v3:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "panel_v3",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "sample_screen",
+        "columns": [
+          "步骤",
+          "指标",
+          "数值",
+          "说明"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "dropped_from_266_to_262",
+        "columns": [
+          "province",
+          "year",
+          "dfi",
+          "digital_econ",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "缺失原因"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "audit_only_variables",
+        "columns": [
+          "province",
+          "year",
+          "ppp_quality_pca_raw_empty_audit_only"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "estimate_scope_note",
+        "columns": [
+          "层级",
+          "口径",
+          "说明"
+        ],
+        "rows_sampled": 4
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_1048.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "exec_share",
+      "proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_3.6_model_ready_panel_v3_统一口径_方案2_实际执行版_20260413_1048.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "panel_v3:exec_share",
+      "panel_v3:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "panel_v3",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "sample_screen",
+        "columns": [
+          "步骤",
+          "指标",
+          "数值",
+          "说明"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "dropped_from_266_to_262",
+        "columns": [
+          "province",
+          "year",
+          "dfi",
+          "digital_econ",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "缺失原因"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "audit_only_variables",
+        "columns": [
+          "province",
+          "year",
+          "ppp_quality_pca_raw_empty_audit_only"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "estimate_scope_note",
+        "columns": [
+          "层级",
+          "口径",
+          "说明"
+        ],
+        "rows_sampled": 4
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/PPP_第5部分_5.1并表与模型设定_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "model_ready_panel_前500行:exec_share",
+      "model_ready_panel_前500行:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "并表说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "model_ready_panel_前500行",
+        "columns": [
+          "province",
+          "year",
+          "ppp_doc_n",
+          "ppp_inv",
+          "ln_ppp_doc_n",
+          "ln_ppp_inv",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "fiscal_pass_rate",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "ppp_quality_pca",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "post",
+          "city_n",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "rd_expenditure",
+          "tech_contract_value",
+          "patent_grants",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "变量定义",
+        "columns": [
+          "variable",
+          "level",
+          "definition"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "省份处理时点",
+        "columns": [
+          "province",
+          "first_treat_year",
+          "ever_treated",
+          "obs_n",
+          "text_doc_years"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "处理变量定义_20260412",
+        "columns": [
+          "变量",
+          "数据来源",
+          "聚合单元",
+          "聚合函数/定义",
+          "正文写法边界"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/README_四级十二类重建说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.1）识别框架、并表与模型设定/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.2）描述统计、处理时点与样本结构诊断/PPP_第5部分_5.2描述统计与样本结构诊断_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "年度结构概览:mean_exec_share",
+      "年度结构概览:mean_proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "诊断说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "描述统计",
+        "columns": [
+          "variable",
+          "count",
+          "mean",
+          "std",
+          "min",
+          "25%",
+          "50%",
+          "75%",
+          "max"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "缺失率",
+        "columns": [
+          "variable",
+          "missing_n",
+          "missing_rate"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "省份处理时点",
+        "columns": [
+          "province",
+          "first_treat_year",
+          "ever_treated",
+          "obs_n",
+          "text_doc_years"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "年度结构概览",
+        "columns": [
+          "year",
+          "rows",
+          "text_doc_rows",
+          "mean_A_idx",
+          "mean_B_idx",
+          "mean_C_idx",
+          "mean_D_idx",
+          "mean_treat_share",
+          "mean_exec_share",
+          "mean_proc_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.2）描述统计、处理时点与样本结构诊断/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.3）基准多期DID_TWFE正式回归/PPP_第5部分_5.3基准多期DID正式回归_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "回归样本核心变量:exec_share",
+      "回归样本核心变量:proc_share"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "核心结论",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "正式回归结果长表",
+        "columns": [
+          "depvar",
+          "did_var",
+          "N",
+          "coef",
+          "se",
+          "t",
+          "p",
+          "r2",
+          "mean_dep",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls",
+          "coef_star",
+          "se_fmt"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "结果汇总表",
+        "columns": [
+          "depvar",
+          "did_intensity",
+          "did_intensity_se",
+          "did_any",
+          "did_any_se",
+          "treat_share",
+          "treat_share_se",
+          "did_intensity_p",
+          "did_any_p",
+          "treat_share_p",
+          "did_intensity_N",
+          "did_any_N",
+          "treat_share_N"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "回归样本核心变量",
+        "columns": [
+          "province",
+          "year",
+          "exec_share",
+          "proc_share",
+          "prep_share",
+          "vfm_pass_rate",
+          "ppp_quality_zindex",
+          "did_intensity",
+          "did_any",
+          "treat_share",
+          "dfi",
+          "digital_econ",
+          "base_station_density",
+          "software_gdp_share",
+          "it_service_gdp_share",
+          "ln_rd_expenditure",
+          "ln_tech_contract_value",
+          "ln_patent_grants",
+          "A_idx",
+          "B_idx",
+          "C_idx",
+          "D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "与旧版重叠结果对照",
+        "columns": [
+          "depvar",
+          "did_var",
+          "N_v2",
+          "coef_v2",
+          "se",
+          "t",
+          "p_v2",
+          "r2",
+          "mean_dep",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls",
+          "coef_star",
+          "se_fmt",
+          "coef_old",
+          "p_old",
+          "N_old",
+          "coef_diff_v2_minus_old",
+          "p_diff_v2_minus_old"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.3）基准多期DID_TWFE正式回归/PPP_第5部分_5.3正式回归结果长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "depvar",
+          "did_var",
+          "N",
+          "coef",
+          "se",
+          "t",
+          "p",
+          "r2",
+          "mean_dep",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls",
+          "coef_star",
+          "se_fmt"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.3）基准多期DID_TWFE正式回归/README_四级十二类_5.3说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.3）基准多期DID_TWFE正式回归/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.4）事件研究法与平行趋势检验/PPP_第5部分_5.4事件研究与平行趋势检验_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "诊断说明",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "事件研究摘要",
+        "columns": [
+          "outcome",
+          "N",
+          "pretrend_coef_leq_m2",
+          "pretrend_p",
+          "event0_coef",
+          "event0_p",
+          "event1_coef",
+          "event1_p",
+          "event2_coef",
+          "event2_p",
+          "event3plus_coef",
+          "event3plus_p",
+          "province_fe",
+          "year_fe",
+          "cluster",
+          "controls",
+          "note"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "动态系数长表",
+        "columns": [
+          "outcome",
+          "event_time",
+          "event_order",
+          "coef",
+          "se",
+          "p",
+          "ci_low",
+          "ci_high",
+          "is_reference"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "省份处理时点",
+        "columns": [
+          "province",
+          "first_treat_year",
+          "ever_treated",
+          "treatment_group"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "写作边界_20260412",
+        "columns": [
+          "项目",
+          "当前统一写法"
+        ],
+        "rows_sampled": 4
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.4）事件研究法与平行趋势检验/PPP_第5部分_5.4动态系数长表_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "outcome",
+          "event_time",
+          "event_order",
+          "coef",
+          "se",
+          "p",
+          "ci_low",
+          "ci_high",
+          "is_reference"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第5部分_核心实证识别/（5.4）事件研究法与平行趋势检验/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/PPP_doc_level_variables_v2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "一级子文件夹",
+          "province",
+          "相对路径",
+          "文件名",
+          "year",
+          "topic",
+          "topic_name",
+          "topic_main_dimension",
+          "topic_secondary_code",
+          "topic_secondary_name",
+          "topic_match_strength",
+          "char_len",
+          "sentence_count",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "z_A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "z_B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "z_C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "z_D_idx",
+          "D_share",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/PPP_doc_level_variables_v3_DID主识别窗口_2014_2022_地方样本_实际执行版_20260413_0912.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "一级子文件夹",
+          "province",
+          "相对路径",
+          "文件名",
+          "year",
+          "topic",
+          "topic_name",
+          "topic_main_dimension",
+          "topic_secondary_code",
+          "topic_secondary_name",
+          "topic_match_strength",
+          "char_len",
+          "sentence_count",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "z_A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "z_B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "z_C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "z_D_idx",
+          "D_share",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/PPP_province_year_variables_v2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx",
+          "z_B_idx",
+          "z_C_idx",
+          "z_D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share",
+          "topic_14_share",
+          "topic_15_share",
+          "topic_16_share",
+          "topic_17_share",
+          "topic_18_share",
+          "topic_19_share",
+          "topic_20_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/PPP_province_year_variables_v3_DID主识别窗口_方案2_平衡口径_实际执行版_20260413_0912.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "province",
+          "year",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx",
+          "z_B_idx",
+          "z_C_idx",
+          "z_D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share",
+          "topic_14_share",
+          "topic_15_share",
+          "topic_16_share",
+          "topic_17_share",
+          "topic_18_share",
+          "topic_19_share",
+          "topic_20_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/PPP_year_variables_v2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "year",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx",
+          "z_B_idx",
+          "z_C_idx",
+          "z_D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share",
+          "topic_14_share",
+          "topic_15_share",
+          "topic_16_share",
+          "topic_17_share",
+          "topic_18_share",
+          "topic_19_share",
+          "topic_20_share",
+          "topic_21_share"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/PPP_第4部分_文本变量构造结果_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "文档级变量",
+        "columns": [
+          "序号",
+          "一级子文件夹",
+          "province",
+          "相对路径",
+          "文件名",
+          "year",
+          "topic",
+          "topic_name",
+          "topic_main_dimension",
+          "topic_secondary_code",
+          "topic_secondary_name",
+          "topic_match_strength",
+          "char_len",
+          "sentence_count",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "z_A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "z_B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "z_C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "z_D_idx",
+          "D_share",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "省-年面板变量",
+        "columns": [
+          "province",
+          "year",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx",
+          "z_B_idx",
+          "z_C_idx",
+          "z_D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share",
+          "topic_14_share",
+          "topic_15_share",
+          "topic_16_share",
+          "topic_17_share",
+          "topic_18_share",
+          "topic_19_share",
+          "topic_20_share"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "年份汇总变量",
+        "columns": [
+          "year",
+          "doc_count",
+          "total_chars",
+          "total_sentences",
+          "A1_cnt",
+          "A1_idx",
+          "A1_share",
+          "A2_cnt",
+          "A2_idx",
+          "A2_share",
+          "A3_cnt",
+          "A3_idx",
+          "A3_share",
+          "B1_cnt",
+          "B1_idx",
+          "B1_share",
+          "B2_cnt",
+          "B2_idx",
+          "B2_share",
+          "B3_cnt",
+          "B3_idx",
+          "B3_share",
+          "C1_cnt",
+          "C1_idx",
+          "C1_share",
+          "C2_cnt",
+          "C2_idx",
+          "C2_share",
+          "C3_cnt",
+          "C3_idx",
+          "C3_share",
+          "D1_cnt",
+          "D1_idx",
+          "D1_share",
+          "D2_cnt",
+          "D2_idx",
+          "D2_share",
+          "D3_cnt",
+          "D3_idx",
+          "D3_share",
+          "A_cnt",
+          "A_idx",
+          "A_share",
+          "B_cnt",
+          "B_idx",
+          "B_share",
+          "C_cnt",
+          "C_idx",
+          "C_share",
+          "D_cnt",
+          "D_idx",
+          "D_share",
+          "z_A_idx",
+          "z_B_idx",
+          "z_C_idx",
+          "z_D_idx",
+          "ppp_governance_capacity_index",
+          "ppp_norm_risk_index",
+          "topic_0_share",
+          "topic_1_share",
+          "topic_2_share",
+          "topic_3_share",
+          "topic_4_share",
+          "topic_5_share",
+          "topic_6_share",
+          "topic_7_share",
+          "topic_8_share",
+          "topic_9_share",
+          "topic_10_share",
+          "topic_11_share",
+          "topic_12_share",
+          "topic_13_share",
+          "topic_14_share",
+          "topic_15_share",
+          "topic_16_share",
+          "topic_17_share",
+          "topic_18_share",
+          "topic_19_share",
+          "topic_20_share",
+          "topic_21_share"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "变量定义",
+        "columns": [
+          "变量名",
+          "层级",
+          "含义",
+          "构造方式",
+          "来源"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "重建说明",
+        "columns": [
+          "项目",
+          "说明"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/README_四级十二类重建说明.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "词典",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第4部分_文本变量构造/（4.1-4.4）文本变量构造与输出/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.1）质性内容分析与人工框架建模/PPP_120篇试编码样本清单.xlsx",
+    "name_hits": [
+      "人工"
+    ],
+    "col_hits": [
+      "120篇试编码样本:A数字治理接口预标注强度",
+      "120篇试编码样本:B规范治理预标注强度",
+      "120篇试编码样本:C风险识别预标注强度"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "120篇试编码样本",
+        "columns": [
+          "序号",
+          "阶段层",
+          "年份",
+          "地区",
+          "文种",
+          "文件名",
+          "相对路径",
+          "A数字治理接口预标注强度",
+          "B规范治理预标注强度",
+          "C风险识别预标注强度"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "分阶段地区分布",
+        "columns": [
+          "period",
+          "region_norm",
+          "n"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "分阶段文种分布",
+        "columns": [
+          "period",
+          "doc_type",
+          "n"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.1）质性内容分析与人工框架建模/PPP_V2正式试编码结果.xlsx",
+    "name_hits": [
+      "人工"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "120篇文档评分矩阵",
+        "columns": [
+          "序号",
+          "年份",
+          "阶段层",
+          "地区",
+          "文种",
+          "文件名",
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "二级类目覆盖率",
+        "columns": [
+          "二级代码",
+          "类目名称",
+          "一级维度",
+          "覆盖文档数",
+          "强命中文档数",
+          "平均命中句群数",
+          "平均命中词数",
+          "覆盖率",
+          "强命中率"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "一级维度摘要",
+        "columns": [
+          "一级维度",
+          "平均评分总和",
+          "平均命中句群数",
+          "覆盖文档数",
+          "覆盖率"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "同句群共现矩阵长表",
+        "columns": [
+          "code1",
+          "code2",
+          "同句群共现数",
+          "类目1",
+          "类目2",
+          "维度1",
+          "维度2"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "共现矩阵宽表",
+        "columns": [
+          "Unnamed: 0",
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "C1",
+          "C2",
+          "C3"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.1）质性内容分析与人工框架建模/PPP_代码本_V3_四级十二类_正式版.xlsx",
+    "name_hits": [
+      "人工"
+    ],
+    "col_hits": [
+      "代码本V3_四级十二类:一级主题",
+      "代码本V3_四级十二类:二级主题名称",
+      "旧版到新版映射:新版主题名称",
+      "一级主题摘要:一级主题",
+      "一级主题摘要:一级主题名称",
+      "一级主题摘要:二级主题数量",
+      "一级主题摘要:二级主题列表"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "代码本V3_四级十二类",
+        "columns": [
+          "一级主题",
+          "二级代码",
+          "二级主题名称",
+          "操作性定义",
+          "核心触发词/短语（首批）",
+          "边界规则",
+          "与旧版对应关系",
+          "来源与出处说明",
+          "后续变量映射建议"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "旧版到新版映射",
+        "columns": [
+          "旧版代码",
+          "新版代码",
+          "新版主题名称",
+          "迁移说明"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "一级主题摘要",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级主题数量",
+          "二级代码列表",
+          "二级主题列表"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "使用说明",
+        "columns": [
+          "项目",
+          "内容"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.1）质性内容分析与人工框架建模/README_本环节文件说明.txt",
+    "name_hits": [
+      "人工"
+    ],
+    "col_hits": [],
+    "text_hits": [
+      "人工"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.2）词典法构建种子词表/PPP_正式词典_V2_四级十二类_正式版.xlsx",
+    "name_hits": [
+      "词典"
+    ],
+    "col_hits": [
+      "正式词典V2_建议入库:一级主题",
+      "正式词典V2_建议入库:一级主题名称",
+      "正式词典V2_建议入库:二级主题名称",
+      "全量候选词:一级主题",
+      "全量候选词:一级主题名称",
+      "全量候选词:二级主题名称",
+      "噪声词与混淆清单:可能涉及主题",
+      "类目摘要:一级主题",
+      "类目摘要:一级主题名称",
+      "类目摘要:二级主题名称"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "正式词典V2_建议入库",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "词/短语",
+          "状态",
+          "来源类型",
+          "来源依据",
+          "版本"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "全量候选词",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "词/短语",
+          "状态",
+          "来源类型",
+          "来源依据",
+          "版本",
+          "后续处理",
+          "备注"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "噪声词与混淆清单",
+        "columns": [
+          "可能涉及主题",
+          "噪声/混淆类别",
+          "词/短语",
+          "说明",
+          "处理建议"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "类目摘要",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "首批种子词数量",
+          "种子词示例"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "来源说明",
+        "columns": [
+          "项目",
+          "内容"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.2）词典法构建种子词表/README_本环节文件说明.txt",
+    "name_hits": [
+      "词典"
+    ],
+    "col_hits": [],
+    "text_hits": [
+      "词典"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.3）Word2Vec扩词/PPP_W2V_建议扩展词_V2_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "一级主题",
+      "一级主题名称",
+      "二级主题名称"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "候选词/短语",
+          "聚合相似度",
+          "触发种子数",
+          "最高单次相似度",
+          "来源种子示例",
+          "语料频次",
+          "是否原种子词",
+          "建议处理",
+          "判定依据",
+          "是否跨类高歧义",
+          "备注"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.3）Word2Vec扩词/PPP_Word2Vec扩词结果_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [
+      "建议扩展词:一级主题",
+      "建议扩展词:一级主题名称",
+      "建议扩展词:二级主题名称",
+      "待人工复核:一级主题",
+      "待人工复核:一级主题名称",
+      "待人工复核:二级主题名称",
+      "噪声词示例:一级主题",
+      "噪声词示例:一级主题名称",
+      "噪声词示例:二级主题名称",
+      "合并后词典V3建议版:一级主题",
+      "合并后词典V3建议版:一级主题名称",
+      "合并后词典V3建议版:二级主题名称"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "训练摘要",
+        "columns": [
+          "项目",
+          "值"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "建议扩展词",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "候选词/短语",
+          "聚合相似度",
+          "触发种子数",
+          "最高单次相似度",
+          "来源种子示例",
+          "语料频次",
+          "是否原种子词",
+          "建议处理",
+          "判定依据",
+          "是否跨类高歧义",
+          "备注"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "待人工复核",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "候选词/短语",
+          "聚合相似度",
+          "触发种子数",
+          "最高单次相似度",
+          "来源种子示例",
+          "语料频次",
+          "是否原种子词",
+          "建议处理",
+          "判定依据",
+          "是否跨类高歧义",
+          "备注"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "噪声词示例",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "候选词/短语",
+          "聚合相似度",
+          "触发种子数",
+          "最高单次相似度",
+          "来源种子示例",
+          "语料频次",
+          "是否原种子词",
+          "建议处理",
+          "判定依据",
+          "是否跨类高歧义",
+          "备注"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "合并后词典V3建议版",
+        "columns": [
+          "一级主题",
+          "一级主题名称",
+          "二级代码",
+          "二级主题名称",
+          "词/短语",
+          "状态",
+          "来源类型",
+          "来源依据",
+          "版本"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.3）Word2Vec扩词/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.4）BERTopic主题识别与主题解释映射/PPP_BERTopic文档主题分配_V2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行",
+      "主题"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "province",
+          "year",
+          "文件名",
+          "topic",
+          "topic_name",
+          "topic_main_dimension",
+          "topic_secondary_code",
+          "topic_secondary_name",
+          "topic_match_strength"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.4）BERTopic主题识别与主题解释映射/PPP_BERTopic正式版_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行",
+      "主题"
+    ],
+    "col_hits": [
+      "主题总表:主题编号",
+      "主题总表:主题名称",
+      "主题总表:映射一级主题",
+      "主题总表:映射一级主题名称",
+      "主题总表:映射二级主题",
+      "主题映射:主题编号",
+      "主题映射:主题名称",
+      "主题映射:映射二级主题",
+      "主题映射:映射一级主题",
+      "主题映射:映射一级主题名称",
+      "代表性文本:主题编号",
+      "代表性文本:主题名称",
+      "年度主题分布:14_行业_行业 主管部门_物有所值_采购"
+    ],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "主题总表",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "文档数",
+          "占比",
+          "Top_Words",
+          "Top_Word_Scores",
+          "映射一级主题",
+          "映射一级主题名称",
+          "映射二级代码",
+          "映射二级主题",
+          "匹配得分"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "主题映射",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "映射二级代码",
+          "映射二级主题",
+          "映射一级主题",
+          "映射一级主题名称",
+          "匹配得分",
+          "命中词示例",
+          "Top_Words",
+          "代表文本摘要"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "代表性文本",
+        "columns": [
+          "主题编号",
+          "主题名称",
+          "代表文本序号",
+          "序号",
+          "province",
+          "year",
+          "文件名",
+          "代表文本"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "年度主题分布",
+        "columns": [
+          "year",
+          "0_四川省_四川省 财政厅_综合 补助_财政厅 四川省",
+          "1_证券化_资产 证券化_国家 发展_证券",
+          "2_模式 三年_三年_行动计划_三年 行动计划",
+          "3_局长_主任_领导小组_局局长",
+          "4_废止_财政厅 财政部_财金_文件目录",
+          "5_住房_管廊_污水处理_城乡",
+          "6_奖励_普惠_奖代补_普惠 金融",
+          "7_有利于_公共服务 供给_民营 资本_转变",
+          "8_运用_推广 运用_运用 政府_领导小组",
+          "9_专家_机构_咨询服务_咨询服务 机构",
+          "10_债务_预算_基金_政府 债务",
+          "11_绩效_综合信息 平台_综合信息_整改",
+          "12_江苏省_江苏省 财政厅_南京_入库",
+          "13_申报_第四批_第三批_申报 筛选",
+          "14_行业_行业 主管部门_物有所值_采购",
+          "15_改革 委员会_国家 发展_云南省_陕西省政府",
+          "16_运营 移交_移交_特许_经营",
+          "17_落户_人口_就业_城镇化",
+          "18_批复_工程_高速公路_公里",
+          "19_副局长_主任_领导小组_局长",
+          "20_民间_民间 投资_企业_政务",
+          "21_目标 社会_合理_运用_平等",
+          "22_运用_推广 运用_运用 政府_相对",
+          "23_风险_运用_承担_推广 运用"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "方法说明",
+        "columns": [
+          "项目",
+          "值"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.4）BERTopic主题识别与主题解释映射/README_本环节文件说明.txt",
+    "name_hits": [
+      "主题"
+    ],
+    "col_hits": [],
+    "text_hits": [
+      "执行",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.5）可选监督分类增强/PPP_deep_autocoding_bestmodel_v2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "文件名",
+          "A1_pred",
+          "A2_pred",
+          "B1_pred",
+          "B2_pred",
+          "B3_pred",
+          "B4_pred",
+          "C1_pred",
+          "C2_pred",
+          "C3_pred",
+          "best_model"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.5）可选监督分类增强/PPP_supervised_autocoding_v2_四级十二类_实际执行版.csv",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "csv",
+        "columns": [
+          "序号",
+          "文件名",
+          "text_len",
+          "A1_pred",
+          "A2_pred",
+          "B1_pred",
+          "B2_pred",
+          "B3_pred",
+          "B4_pred",
+          "C1_pred",
+          "C2_pred",
+          "C3_pred",
+          "A1_score",
+          "A2_score",
+          "B1_score",
+          "B2_score",
+          "B3_score",
+          "B4_score",
+          "C1_score",
+          "C2_score",
+          "C3_score"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.5）可选监督分类增强/PPP_第3部分可选监督分类环节_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "环节定位与文献依据",
+        "columns": [
+          "类型",
+          "条目",
+          "内容"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "试跑设定",
+        "columns": [
+          "项目",
+          "取值"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "模型比较结果",
+        "columns": [
+          "model",
+          "micro_f1",
+          "macro_f1",
+          "micro_precision",
+          "micro_recall",
+          "subset_accuracy",
+          "recommended"
+        ],
+        "rows_sampled": 3
+      },
+      {
+        "sheet": "分标签结果",
+        "columns": [
+          "model",
+          "label",
+          "f1",
+          "precision",
+          "recall",
+          "support_test"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "1472篇自动编码结果",
+        "columns": [
+          "序号",
+          "文件名",
+          "text_len",
+          "A1_pred",
+          "A2_pred",
+          "B1_pred",
+          "B2_pred",
+          "B3_pred",
+          "B4_pred",
+          "C1_pred",
+          "C2_pred",
+          "C3_pred",
+          "A1_score",
+          "A2_score",
+          "B1_score",
+          "B2_score",
+          "B3_score",
+          "B4_score",
+          "C1_score",
+          "C2_score",
+          "C3_score"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.5）可选监督分类增强/PPP_第3部分深度学习终版增强_V2_四级十二类_实际执行版.xlsx",
+    "name_hits": [
+      "执行"
+    ],
+    "col_hits": [],
+    "text_hits": [],
+    "sheet_info": [
+      {
+        "sheet": "模型比较总表",
+        "columns": [
+          "micro_f1",
+          "macro_f1",
+          "micro_precision",
+          "micro_recall",
+          "subset_accuracy",
+          "model",
+          "augmentation",
+          "threshold",
+          "train_size",
+          "val_size",
+          "test_size",
+          "rank_by_micro_f1"
+        ],
+        "rows_sampled": 4
+      },
+      {
+        "sheet": "分标签指标",
+        "columns": [
+          "model",
+          "label",
+          "f1",
+          "precision",
+          "recall",
+          "support"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "训练测试划分",
+        "columns": [
+          "item",
+          "value"
+        ],
+        "rows_sampled": 5
+      },
+      {
+        "sheet": "120样本自动编码_最佳模型",
+        "columns": [
+          "序号",
+          "文件名",
+          "A1_pred",
+          "A2_pred",
+          "B1_pred",
+          "B2_pred",
+          "B3_pred",
+          "B4_pred",
+          "C1_pred",
+          "C2_pred",
+          "C3_pred",
+          "best_model"
+        ],
+        "rows_sampled": 5
+      }
+    ]
+  },
+  {
+    "file": "ppp论文数据/01_第3到第8部分_最终修正版/第3部分_文本分析总设计/（3.5）可选监督分类增强/README_本环节文件说明.txt",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/README.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/01_trend_adjusted_DID/README.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/02_leave_one_province_out_jackknife/README.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/03_small_sample_inference_wild_cluster_bootstrap/README.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/abstract_final_patch.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/conclusion_final_patch.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/EXACT_REPLACEMENT_PATCH_SUPPLEMENT_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "披露",
+      "标注",
+      "词典",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/FINAL_MANUSCRIPT_PATCH.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/INTEGRATION_LOG_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "人工",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "披露",
+      "在线",
+      "周期",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_20260418_投稿版.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "披露",
+      "在线",
+      "周期",
+      "词典",
+      "主题",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/section_5_6_final.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/conclusion_and_extension_supplement_patch_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "审批",
+      "采购",
+      "执行",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/EXACT_REPLACEMENT_PATCH_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/literature_review_supplement_patch_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行",
+      "披露",
+      "词典",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/methods_supplement_patch_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "披露",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/references_cleanup_patch_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "披露",
+      "标注",
+      "人工",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/reference_mapping_for_supplement_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "披露",
+      "标注",
+      "主题"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/table_figure_caption_notes.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/04_manuscript_integration/notes/theory_supplement_patch_20260417.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/03_small_sample_inference_wild_cluster_bootstrap/text/small_sample_inference_body_insert.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/02_leave_one_province_out_jackknife/notes/leave_one_province_out_notes.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/02_leave_one_province_out_jackknife/text/leave_one_province_out_body_insert.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/01_trend_adjusted_DID/notes/trend_adjusted_did_notes.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/01_trend_adjusted_DID/text/trend_adjusted_did_body_insert.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "采购",
+      "执行",
+      "proc",
+      "exec"
+    ],
+    "sheet_info": []
+  },
+  {
+    "file": "PPP_empirical_reinforcement_bundle_20260416_unified_v3/00_unified_baseline_reference/notes/baseline_spec_readme.md",
+    "name_hits": [],
+    "col_hits": [],
+    "text_hits": [
+      "执行"
+    ],
+    "sheet_info": []
+  }
+]

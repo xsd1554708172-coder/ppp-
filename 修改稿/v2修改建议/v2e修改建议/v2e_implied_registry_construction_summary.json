@@ -1,0 +1,27 @@
+{
+  "source_reconstruction": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2说明文件\\v2d\\appendix_A_treat_share_reconstruction_20260418.csv",
+  "source_timing": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2说明文件\\v2d\\appendix_A_province_treatment_timing_20260418.csv",
+  "province_year_rows": 266,
+  "generated_slot_rows": 2870,
+  "province_count_in_reconstruction": 32,
+  "year_min": 2014,
+  "year_max": 2022,
+  "audit_flag_counts": {
+    "OK": 258,
+    "MISSING_CITY_N": 8
+  },
+  "city_n_change_provinces": [
+    "吉林",
+    "山东",
+    "海南",
+    "湖北",
+    "湖南"
+  ],
+  "max_abs_treat_share_diff_nonmissing": 8.326672684688674e-17,
+  "max_abs_slot_share_diff_nonmissing": 8.326672684688674e-17,
+  "max_abs_did_intensity_diff_nonmissing": 8.326672684688674e-17,
+  "audit_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_province_year_treat_share_audit_from_v2d.csv",
+  "audit_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_province_year_treat_share_audit_from_v2d.xlsx",
+  "slots_csv": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_implied_city_slot_registry_from_v2d_treat_share.csv",
+  "slots_xlsx": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目\\修改稿\\v2修改建议\\v2e修改建议\\v2e_implied_city_slot_registry_from_v2d_treat_share.xlsx"
+}

@@ -1,0 +1,11 @@
+# trend_adjusted_DID
+started_at=2026-04-20T18:50:01.398199+08:00
+finished_at=2026-04-20T18:50:04.730439+08:00
+cwd=C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目
+command=D:\python\python.exe C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\PPP_empirical_reinforcement_bundle_20260416_unified_v3\01_trend_adjusted_DID\scripts\run_trend_adjusted_did.py
+script_exists=True
+exit_code=0
+status=success
+reason=
+
+--- captured output ---

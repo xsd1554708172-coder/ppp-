@@ -1,0 +1,11 @@
+# wild_cluster_bootstrap_summary
+started_at=2026-04-20T18:50:08.711184+08:00
+finished_at=2026-04-20T18:50:10.159680+08:00
+cwd=C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目
+command=D:\python\python.exe C:\Users\陈楚玲\Desktop\ppp论文数据\codex项目\PPP_empirical_reinforcement_bundle_20260416_unified_v3\03_small_sample_inference_wild_cluster_bootstrap\scripts\summarize_small_sample_inference.py
+script_exists=True
+exit_code=0
+status=success
+reason=
+
+--- captured output ---
