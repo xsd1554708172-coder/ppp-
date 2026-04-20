@@ -1,0 +1,10 @@
+﻿outcome,diagnostic,coef,p_value,nobs,role
+exec_share,exclude_2017,0.34901111350924585,0.003056103622524542,231,boundary_diagnostic_not_main
+exec_share,exclude_2020,0.2863935767104973,0.0033390284330798393,233,boundary_diagnostic_not_main
+exec_share,exclude_2017_2020,0.26128448290075484,0.0077332962582696025,202,boundary_diagnostic_not_main
+proc_share,exclude_2017,-0.39631640359833564,0.0018543214429518784,231,boundary_diagnostic_not_main
+proc_share,exclude_2020,-0.36211911891454956,0.0006052896559250222,233,boundary_diagnostic_not_main
+proc_share,exclude_2017_2020,-0.35981133097819873,0.0006651749275835897,202,boundary_diagnostic_not_main
+ppp_quality_zindex,exclude_2017,0.6171194955759537,0.3563660199075628,231,boundary_diagnostic_not_main
+ppp_quality_zindex,exclude_2020,0.3215284475893097,0.448843671635478,233,boundary_diagnostic_not_main
+ppp_quality_zindex,exclude_2017_2020,0.32836395028758514,0.5870245791371314,202,boundary_diagnostic_not_main

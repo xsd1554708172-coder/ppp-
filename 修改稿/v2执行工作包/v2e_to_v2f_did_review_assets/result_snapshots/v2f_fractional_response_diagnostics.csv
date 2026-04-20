@@ -1,0 +1,3 @@
+﻿outcome,specification,coef,p_value,nobs,status,role
+exec_share,fractional_logit_binomial_fe,3.3665221716058182,0.08110461598350029,262,completed_exploratory,bounded_share_diagnostic_not_main
+proc_share,fractional_logit_binomial_fe,-5.405949719794761,0.011663726892744399,262,completed_exploratory,bounded_share_diagnostic_not_main

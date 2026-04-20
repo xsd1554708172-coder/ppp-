@@ -1,0 +1,14 @@
+# 03_leave_one_province_out
+
+- command: `D:\python\python.exe PPP_empirical_reinforcement_bundle_20260416_unified_v3/02_leave_one_province_out_jackknife/scripts/run_leave_one_province_out.py`
+- returncode: 0
+
+## STDOUT
+```
+
+```
+
+## STDERR
+```
+
+```

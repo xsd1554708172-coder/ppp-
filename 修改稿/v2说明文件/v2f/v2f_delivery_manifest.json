@@ -1,0 +1,22 @@
+{
+  "token": "v2f",
+  "stamp": "0420_2158",
+  "md": "修改稿/v2说明文件/v2f/PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_v2f_0420_2158.md",
+  "docx": "修改稿/v2说明文件/v2f/PPP论文_完整论文初稿_公共管理风格_顶刊冲刺整合稿_v2f_0420_2158_对象保留公式版.docx",
+  "archive": "修改稿/v2修改稿留底/v2f",
+  "work_assets": "修改稿/v2执行工作包/v2e_to_v2f_did_review_assets",
+  "long_package": "修改稿/v2执行工作包/future_city_year_modern_did_upgrade",
+  "registry": {
+    "source_registry_exists": true,
+    "source_audit_exists": true,
+    "source_threshold_exists": true,
+    "rule": "Use implied/pseudo city-slot registry as working city-year registry; never label as real city list.",
+    "registry_rows": 2870,
+    "working_registry_csv": "修改稿/v2说明文件/v2f/v2f_working_city_year_registry_from_implied_slots.csv",
+    "working_registry_xlsx": "修改稿/v2说明文件/v2f/v2f_working_city_year_registry_from_implied_slots.xlsx",
+    "audit_rows": 266,
+    "audit_csv": "修改稿/v2说明文件/v2f/v2f_province_year_treat_share_audit_working.csv",
+    "threshold_rows": 266,
+    "threshold_csv": "修改稿/v2说明文件/v2f/v2f_working_threshold_proxy.csv"
+  }
+}

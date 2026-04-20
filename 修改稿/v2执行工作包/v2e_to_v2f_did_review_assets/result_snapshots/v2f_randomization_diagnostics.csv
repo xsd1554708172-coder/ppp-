@@ -1,0 +1,4 @@
+﻿outcome,actual_fresh_baseline_coef,n_permutations_successful,two_sided_empirical_p,role
+exec_share,0.35999030947341154,199,0.335,randomization_diagnostic_not_main
+proc_share,-0.4065371976359414,199,0.27,randomization_diagnostic_not_main
+ppp_quality_zindex,0.5226386601375361,199,0.425,randomization_diagnostic_not_main

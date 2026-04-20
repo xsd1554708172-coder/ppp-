@@ -1,0 +1,6 @@
+﻿name,returncode,ok,log
+01_unified_baseline_reference,0,True,修改稿/v2执行工作包/v2e_to_v2f_did_review_assets/rerun_logs/01_unified_baseline_reference.log
+02_trend_adjusted_DID,0,True,修改稿/v2执行工作包/v2e_to_v2f_did_review_assets/rerun_logs/02_trend_adjusted_DID.log
+03_leave_one_province_out,0,True,修改稿/v2执行工作包/v2e_to_v2f_did_review_assets/rerun_logs/03_leave_one_province_out.log
+04_wild_cluster_bootstrap_summary,0,True,修改稿/v2执行工作包/v2e_to_v2f_did_review_assets/rerun_logs/04_wild_cluster_bootstrap_summary.log
+05_robustness_defense_summary,0,True,修改稿/v2执行工作包/v2e_to_v2f_did_review_assets/rerun_logs/05_robustness_defense_summary.log

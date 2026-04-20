@@ -1,0 +1,14 @@
+{
+  "did_method_review": {
+    "exists": true,
+    "paragraphs": 111,
+    "tables": 15,
+    "characters": 12161
+  },
+  "v2e_review": {
+    "exists": true,
+    "paragraphs": 56,
+    "tables": 4,
+    "characters": 12082
+  }
+}
