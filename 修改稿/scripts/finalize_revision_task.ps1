@@ -19,13 +19,12 @@ $revisionRoot = Split-Path -Parent $scriptDir
 $repoRoot = Split-Path -Parent $revisionRoot
 
 if (-not $CommitMessage) {
-    $CommitMessage = "chore: archive and sync $Token revision"
+    $CommitMessage = "chore: archive $Token revision"
 }
 
 $archiveScript = Join-Path $scriptDir "archive_revision_output.py"
 $indexScript = Join-Path $scriptDir "refresh_revision_indexes.py"
 $logScript = Join-Path $scriptDir "write_revision_operation_log.py"
-$syncScript = Join-Path $scriptDir "git_sync_workspace.ps1"
 
 if (-not (Test-Path -LiteralPath $archiveScript)) {
     throw "Archive script not found: $archiveScript"
@@ -37,10 +36,6 @@ if (-not (Test-Path -LiteralPath $indexScript)) {
 
 if (-not (Test-Path -LiteralPath $logScript)) {
     throw "Operation log script not found: $logScript"
-}
-
-if (-not (Test-Path -LiteralPath $syncScript)) {
-    throw "Git sync script not found: $syncScript"
 }
 
 $archiveArgs = @($archiveScript, "--source", $SourcePath, "--token", $Token)
@@ -94,8 +89,3 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 Write-Output "Operation log written to: $logPath"
-
-& powershell -ExecutionPolicy Bypass -File $syncScript -CommitMessage $CommitMessage
-if ($LASTEXITCODE -ne 0) {
-    throw "Git sync step failed."
-}

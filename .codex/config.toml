@@ -1,0 +1,6 @@
+model_instructions_file = "../AI_RULES.txt"
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[sandbox_workspace_write]
+network_access = false

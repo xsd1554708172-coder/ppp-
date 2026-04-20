@@ -1,0 +1,10 @@
+Shared Codex and Aider rules for this repository:
+
+1. Make the minimum necessary change. Do not rewrite large areas without a concrete reason.
+2. Preserve the existing public API, directory layout, data definitions, and empirical result boundaries unless a change is explicitly required.
+3. Run the relevant test or check before declaring completion. If no reliable project-wide test exists, say that clearly and run the closest safe validation.
+4. Do not add dependencies without explaining why they are necessary.
+5. Do not modify `.env`, secret files, production configuration, deployment credentials, or any real key material.
+6. Start with a short change plan before editing. If requirements are unclear, analyze first and then modify.
+7. When reporting completion, state which files changed, why they changed, the main risks, and any remaining follow-up work.
+8. Follow the constraints in `AGENTS.md` when they apply to this repository.

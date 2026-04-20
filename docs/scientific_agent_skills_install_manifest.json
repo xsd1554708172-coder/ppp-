@@ -1,0 +1,815 @@
+{
+  "timestamp_local": "2026-04-20 17:02:01",
+  "source_root": "C:\\Users\\陈楚玲\\AppData\\Local\\Temp\\scientific-agent-skills-extract\\scientific-agent-skills-main\\scientific-skills",
+  "dest_root": "C:\\Users\\陈楚玲\\.codex\\skills",
+  "installed": [
+    {
+      "skill": "adaptyv",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\adaptyv",
+      "files": 2,
+      "tree_sha256": "f2effe493d4facdd57686c30b962829eb756211b46cefc23b59b653bb9b3dafb"
+    },
+    {
+      "skill": "aeon",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\aeon",
+      "files": 12,
+      "tree_sha256": "655b0f61993fa2fb3464e5a5c2aac64dd36cfc8d44b7b66b400dee893656e44b"
+    },
+    {
+      "skill": "anndata",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\anndata",
+      "files": 6,
+      "tree_sha256": "e65d09c381154807a7167086b206964ff2a26bac2c57b98c9dbe015d98ba29dd"
+    },
+    {
+      "skill": "arboreto",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\arboreto",
+      "files": 5,
+      "tree_sha256": "13a8f12a68f38991f59ecf166946f7045afedf32985fdb1439bfadb68ee492e8"
+    },
+    {
+      "skill": "astropy",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\astropy",
+      "files": 8,
+      "tree_sha256": "f41587e280dd571f0e5cbf833f387f8c6413a5f9b095a84bdc855a9dbb03f1c0"
+    },
+    {
+      "skill": "benchling-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\benchling-integration",
+      "files": 4,
+      "tree_sha256": "aad771ba9e694344bd44fd9eaa97051373bd2b1947c3e80a9b1caf3f77d74bdb"
+    },
+    {
+      "skill": "bgpt-paper-search",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\bgpt-paper-search",
+      "files": 1,
+      "tree_sha256": "c8a499bc112128c026050caabdd7cbfdccdff799d8ee0586f77e04a8636a5a4b"
+    },
+    {
+      "skill": "biopython",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\biopython",
+      "files": 8,
+      "tree_sha256": "b24dd3940f5b7ddce3361501ef5582e54b532b71e8973f9aa6aaf7afaca30cab"
+    },
+    {
+      "skill": "bioservices",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\bioservices",
+      "files": 8,
+      "tree_sha256": "00e2bb1300577a3a3f4ccfbe4c907578767488399a57c63c1a6d18e694145b61"
+    },
+    {
+      "skill": "cellxgene-census",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\cellxgene-census",
+      "files": 3,
+      "tree_sha256": "db40170b886cb596d7fe7c348fbf0c73dc224845bb810a5dc65904be7c7e02eb"
+    },
+    {
+      "skill": "cirq",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\cirq",
+      "files": 7,
+      "tree_sha256": "ca5a6ce76a7f520ac8b69e5ad385e7cea2f62600800ad1b891c1d9e2ecb6048d"
+    },
+    {
+      "skill": "clinical-decision-support",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\clinical-decision-support",
+      "files": 22,
+      "tree_sha256": "3d75d82395633fa986a8afc743b8f030f39f607ec8ffe1c2708f54a0023ae37e"
+    },
+    {
+      "skill": "clinical-reports",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\clinical-reports",
+      "files": 32,
+      "tree_sha256": "59e1431ce828cc03f82455b5e58c50ec87fdb8d46472682ccc4745008d9c0ab6"
+    },
+    {
+      "skill": "cobrapy",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\cobrapy",
+      "files": 3,
+      "tree_sha256": "ad84385f73baa07c9df1bce9092ebdd47156dfe7345e6dfdff0b57843fc97e8b"
+    },
+    {
+      "skill": "consciousness-council",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\consciousness-council",
+      "files": 2,
+      "tree_sha256": "6c35eaa3b90ca657c357166fd1c4d2945e44ebcbe6da2e25b1d8a92e06821de5"
+    },
+    {
+      "skill": "dask",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\dask",
+      "files": 7,
+      "tree_sha256": "d25cb1d20a6b384f4844c4d2ccfc67208af5ebbc3a974553d8250280d4cc82d0"
+    },
+    {
+      "skill": "database-lookup",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\database-lookup",
+      "files": 79,
+      "tree_sha256": "fc7afb18a1d050e00d4627fba6b6f1e8100179280653aa1d4d7e1f8800522cdf"
+    },
+    {
+      "skill": "datamol",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\datamol",
+      "files": 7,
+      "tree_sha256": "0a6d7bf31da45cd434ca13a2467e6bbcd8e3db5a6c1055774da33576cae96e6d"
+    },
+    {
+      "skill": "deepchem",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\deepchem",
+      "files": 6,
+      "tree_sha256": "b33d611ce02de52e6c6215da1a8562487d8808742eeb727e995cc18c1ebbeb91"
+    },
+    {
+      "skill": "deeptools",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\deeptools",
+      "files": 8,
+      "tree_sha256": "ae1345be4c87d3d748b5ce43a974e286f23db08c970e121984b794409109f0c0"
+    },
+    {
+      "skill": "depmap",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\depmap",
+      "files": 2,
+      "tree_sha256": "ff74052dccc04419ba133d03baa6dd5aa36fe17a9f16b370be28970182a81b34"
+    },
+    {
+      "skill": "dhdna-profiler",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\dhdna-profiler",
+      "files": 2,
+      "tree_sha256": "eebb82f42aaf6556c5430d5cf22a955978f869b714060134bcbedc6cbe57b4cd"
+    },
+    {
+      "skill": "diffdock",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\diffdock",
+      "files": 9,
+      "tree_sha256": "a55f0df26561e740f6b433261dadd1a837be65ecf9aa6fbdad5e85a213799c7d"
+    },
+    {
+      "skill": "dnanexus-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\dnanexus-integration",
+      "files": 6,
+      "tree_sha256": "7d30356c61a288f7c1465e5622ec8aa2b07a02f95584da4f5f27247a0d62912b"
+    },
+    {
+      "skill": "docx",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\docx",
+      "files": 61,
+      "tree_sha256": "c65f8208b4db8b8b119025df2451cbbafef6dad4183707880b5a6c5f30417394"
+    },
+    {
+      "skill": "esm",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\esm",
+      "files": 5,
+      "tree_sha256": "3bda558adfe98f18092979989d85de9b0abb180b400e8c54e0c2beb74348ab66"
+    },
+    {
+      "skill": "etetoolkit",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\etetoolkit",
+      "files": 6,
+      "tree_sha256": "32d645583167effb2bcc43efa1a53babf84cc640a76c04d8c6ba5e60100eced1"
+    },
+    {
+      "skill": "exploratory-data-analysis",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\exploratory-data-analysis",
+      "files": 9,
+      "tree_sha256": "a273fc5fcff571b1eb6e2f73db10969613fd77f9cc60381d5774fae43f1620ef"
+    },
+    {
+      "skill": "flowio",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\flowio",
+      "files": 2,
+      "tree_sha256": "bf4ea13184d2d68883535515c638ea319cb205d04e3c37ead9dd841d704f02da"
+    },
+    {
+      "skill": "fluidsim",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\fluidsim",
+      "files": 7,
+      "tree_sha256": "e72cef7afd2a56e15d7049b6d9997846e4d745eddff3038c94acc1e4ea5cd927"
+    },
+    {
+      "skill": "generate-image",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\generate-image",
+      "files": 2,
+      "tree_sha256": "326976dd210959663a6d6d3da5d5e88db38ab2d513857848eedfb5adc26ab4fb"
+    },
+    {
+      "skill": "geniml",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\geniml",
+      "files": 6,
+      "tree_sha256": "f353c316263d137cec464a0682fa28803724239eb23b1cfdad5c93b78d2bf7b3"
+    },
+    {
+      "skill": "geomaster",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\geomaster",
+      "files": 16,
+      "tree_sha256": "ab33815984ec64e66982a368b2cd6c96db307249635009d7fb94bff2b7be0205"
+    },
+    {
+      "skill": "geopandas",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\geopandas",
+      "files": 7,
+      "tree_sha256": "0578614eddba0418d63ea604254040c8def2f129a21f17e7f7a8b01bf9b868fd"
+    },
+    {
+      "skill": "get-available-resources",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\get-available-resources",
+      "files": 2,
+      "tree_sha256": "f7b2fa237efedb10c6578fdac7839e44e413489419c2e9689f84f248e70e00e4"
+    },
+    {
+      "skill": "gget",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\gget",
+      "files": 7,
+      "tree_sha256": "d34b0e58da092e87b86bf352529f7fc5f40caef0414662356a4c691efccbb23f"
+    },
+    {
+      "skill": "ginkgo-cloud-lab",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\ginkgo-cloud-lab",
+      "files": 4,
+      "tree_sha256": "64163c29c5ab49e3d3bb8cc92ecf49f02dd1019ebfb4aef927584e8de963f7c4"
+    },
+    {
+      "skill": "glycoengineering",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\glycoengineering",
+      "files": 2,
+      "tree_sha256": "ae3bd13095e5c71cf671f3b0a7fa8504b95a85c35a75b3a8be38a39f2fc57c70"
+    },
+    {
+      "skill": "gtars",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\gtars",
+      "files": 7,
+      "tree_sha256": "3df6451f3e5cc941d3e9480c4dfddb936b40f30467e3daec5f3e2d58075e4886"
+    },
+    {
+      "skill": "histolab",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\histolab",
+      "files": 6,
+      "tree_sha256": "038309c9d22ba369e75843edab605058b4140ab48605cb8223f6e3a70803d6dc"
+    },
+    {
+      "skill": "hypogenic",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\hypogenic",
+      "files": 2,
+      "tree_sha256": "ac0f41a73dd3533bfd97e915f437ab997bfb35b797297c1b0369a747ff987ab9"
+    },
+    {
+      "skill": "hypothesis-generation",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\hypothesis-generation",
+      "files": 9,
+      "tree_sha256": "4cbe77e60d75ab5ae15561fa0860a576b31df551a8f857f981b527d83695dab2"
+    },
+    {
+      "skill": "imaging-data-commons",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\imaging-data-commons",
+      "files": 11,
+      "tree_sha256": "4833e665175a1a7bd8ceda5896ef3b3c6f0415fa7d987e1a6d8e85c21379f9bc"
+    },
+    {
+      "skill": "infographics",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\infographics",
+      "files": 6,
+      "tree_sha256": "71c1ea6ddd1b181b0782201068b40e0c133feb32571d46984c7d238b46bd0280"
+    },
+    {
+      "skill": "iso-13485-certification",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\iso-13485-certification",
+      "files": 9,
+      "tree_sha256": "81a6c5ef2e877fb2f6c01347ca8784aca7dec1947fdbb1b7ac0c0b7e4b248ea9"
+    },
+    {
+      "skill": "labarchive-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\labarchive-integration",
+      "files": 7,
+      "tree_sha256": "de699d5f34f0dc7d1971ce6f5e69e531657e1ea551229260d5dfc932fb23ab98"
+    },
+    {
+      "skill": "lamindb",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\lamindb",
+      "files": 7,
+      "tree_sha256": "18aa35cf1ff5b38417cf000923a2b23ceecc256efec4a5fd315fd0d87f3eed3e"
+    },
+    {
+      "skill": "latchbio-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\latchbio-integration",
+      "files": 5,
+      "tree_sha256": "c99c81599123ebffff590ddce05917e61401a12eabc1381ff4f74781d0921d69"
+    },
+    {
+      "skill": "latex-posters",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\latex-posters",
+      "files": 13,
+      "tree_sha256": "6e9ad4ea85b4efe543afc250ce953f616158ed388cccf5cc5d3b7de31f2f5dda"
+    },
+    {
+      "skill": "literature-review",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\literature-review",
+      "files": 9,
+      "tree_sha256": "e76a6cf4ab4196b88784bd5d35b1cc6acd15e3a08693b6871168dbc07057d33e"
+    },
+    {
+      "skill": "markdown-mermaid-writing",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\markdown-mermaid-writing",
+      "files": 37,
+      "tree_sha256": "4e703dc0a4677220f9acd4a9d31ce0f68b0c5390acf22d86e259c3efc77d6d11"
+    },
+    {
+      "skill": "market-research-reports",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\market-research-reports",
+      "files": 8,
+      "tree_sha256": "19697243e1463fa4edb6024160906de5de2dc153effcf044dc92cc714fa65223"
+    },
+    {
+      "skill": "markitdown",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\markitdown",
+      "files": 9,
+      "tree_sha256": "75207e26682c990fd34b1cb3ebac6abe1cc86648bdc0a7929695d470193d6cce"
+    },
+    {
+      "skill": "matchms",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\matchms",
+      "files": 5,
+      "tree_sha256": "7c2cffe342ace3c67dd4aebb8e63e3facf26bcce6c3f823343d866f7aa72c19a"
+    },
+    {
+      "skill": "matlab",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\matlab",
+      "files": 9,
+      "tree_sha256": "78233208f4efe5695c8c6f08ed5d78e84f32beb69c415c762b3231e639fa0c97"
+    },
+    {
+      "skill": "matplotlib",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\matplotlib",
+      "files": 7,
+      "tree_sha256": "1f155bdf01f66d4f927298784949f6a2aac7edfce5dc3bc1f749f10d25db5894"
+    },
+    {
+      "skill": "medchem",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\medchem",
+      "files": 4,
+      "tree_sha256": "84e2d7fd3e6c66a53599da67ad911ef11125458314d99903e0605a866d27d617"
+    },
+    {
+      "skill": "modal",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\modal",
+      "files": 13,
+      "tree_sha256": "839a2bba13ac01e8de0b430b0e560d8afd3389aca72b57f33a738b3c2030fd56"
+    },
+    {
+      "skill": "molecular-dynamics",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\molecular-dynamics",
+      "files": 2,
+      "tree_sha256": "4626e5dc90862781575b37d30042674433db1c89970ee6df11b850181a55ec1a"
+    },
+    {
+      "skill": "molfeat",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\molfeat",
+      "files": 4,
+      "tree_sha256": "77dffabfcb8cb22d384a9b5b74f0563c845e15547a01f277438ba7553b077134"
+    },
+    {
+      "skill": "networkx",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\networkx",
+      "files": 6,
+      "tree_sha256": "dd49c51a94f0e57d3df9d3feade4d1c654fbabc9064e772458223be4cfad92e5"
+    },
+    {
+      "skill": "neurokit2",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\neurokit2",
+      "files": 13,
+      "tree_sha256": "e98faded94a2af9ed4d097f409ddc3139389f45ab57a36e4f3e64b0ab608da73"
+    },
+    {
+      "skill": "neuropixels-analysis",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\neuropixels-analysis",
+      "files": 18,
+      "tree_sha256": "5c50c2adbd990ec96e4dfcc59f849b974aa1696932945798977e00c57d18cc2a"
+    },
+    {
+      "skill": "omero-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\omero-integration",
+      "files": 9,
+      "tree_sha256": "508c632fbe4ca65ab7fb52eb4285362589265d918fb6ba0d76b9f4f54d1bf772"
+    },
+    {
+      "skill": "open-notebook",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\open-notebook",
+      "files": 9,
+      "tree_sha256": "399957f07560c9854108b537d2ce49128a69104250f8bacc318ff8bc2585fa4c"
+    },
+    {
+      "skill": "opentrons-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\opentrons-integration",
+      "files": 5,
+      "tree_sha256": "bf6343e5e59f1f0fa4ce4ab8272fecb0930eba774f9fb1a08ed78af40229f484"
+    },
+    {
+      "skill": "optimize-for-gpu",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\optimize-for-gpu",
+      "files": 13,
+      "tree_sha256": "1e7f8c763d88eddf3fbb03b925815e356c2069cfb32d38c4e4dbdbb8626c3cf2"
+    },
+    {
+      "skill": "paper-lookup",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\paper-lookup",
+      "files": 11,
+      "tree_sha256": "4a8515627b248aff024c63ffcf7c9b2462bb22de4a62ce5b4abcc7198b95134e"
+    },
+    {
+      "skill": "paperzilla",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\paperzilla",
+      "files": 1,
+      "tree_sha256": "0ed7232c2d2fbd84b0f80e1bd8e2c5744a0a7dda1dd6c5c5a4264f3e41eac092"
+    },
+    {
+      "skill": "parallel-web",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\parallel-web",
+      "files": 5,
+      "tree_sha256": "9571664cbcb328d2ea80bd1ef59c59312cf3bf00494ad43b0275fe6b8bc472bf"
+    },
+    {
+      "skill": "pathml",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pathml",
+      "files": 7,
+      "tree_sha256": "6c5b82dc28ef0cc0efc801603ea1b8b7191e7b59dcfd0772f6e8766502ced93d"
+    },
+    {
+      "skill": "pdf",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pdf",
+      "files": 12,
+      "tree_sha256": "02c1265e8bff9373c3c885486d316cfe2c53165a7caf0f4bbcc851098699114a"
+    },
+    {
+      "skill": "peer-review",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\peer-review",
+      "files": 5,
+      "tree_sha256": "0b719e4ef0af9a4ea3f5e73e3a551a2563eb31ade5e2d9cf645fdd2ebbc0b020"
+    },
+    {
+      "skill": "pennylane",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pennylane",
+      "files": 8,
+      "tree_sha256": "bbb77050ed9c54c68cb3c78527401e389ea552a3c6253c6e6458fd2cdb0d8910"
+    },
+    {
+      "skill": "phylogenetics",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\phylogenetics",
+      "files": 3,
+      "tree_sha256": "fb0a568cd944776782208d411f7dee4e742dfc10c23228a6baf8742b63dccd62"
+    },
+    {
+      "skill": "polars",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\polars",
+      "files": 7,
+      "tree_sha256": "b5f9da2e9ff5a14cf47675b4c57b9730e47022ab0c05b2b20270b69543342512"
+    },
+    {
+      "skill": "polars-bio",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\polars-bio",
+      "files": 7,
+      "tree_sha256": "86da4f56eba212ca31382c87a837a9cc99c006d8a030ea2ada2764db92947b9d"
+    },
+    {
+      "skill": "pptx",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pptx",
+      "files": 59,
+      "tree_sha256": "d70190fa68b70abcc4ed9e06dfc1558c25b59d5156223b440d7c0abc978e894e"
+    },
+    {
+      "skill": "pptx-posters",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pptx-posters",
+      "files": 8,
+      "tree_sha256": "0cc140cc282e964c0719e274bbe411485544bd6f6f99a80317a746c260be5102"
+    },
+    {
+      "skill": "primekg",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\primekg",
+      "files": 2,
+      "tree_sha256": "9361bde310fc1baa6b4aed38b246fdd7c48e11eb4d52f932920bffcb8f38dd5c"
+    },
+    {
+      "skill": "protocolsio-integration",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\protocolsio-integration",
+      "files": 7,
+      "tree_sha256": "6cc009812a9aeb9e5a15ba1fad8aa4e7942fc42d9458a78dc35faffe5f8cd599"
+    },
+    {
+      "skill": "pufferlib",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pufferlib",
+      "files": 8,
+      "tree_sha256": "4ba846e20eebcf4c9de06e60a52bcfa23cc621fa63a2e481c92d5ce20a3aaf68"
+    },
+    {
+      "skill": "pydeseq2",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pydeseq2",
+      "files": 4,
+      "tree_sha256": "80bfedc24e066e1a218e5e811f022d2e776052aae6b78c475be64577aa68fc55"
+    },
+    {
+      "skill": "pydicom",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pydicom",
+      "files": 6,
+      "tree_sha256": "ede5f4d993c412b07be03cc94018d2fae13785bb8515fc3120dae3b236c6ca31"
+    },
+    {
+      "skill": "pyhealth",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pyhealth",
+      "files": 7,
+      "tree_sha256": "1714274a733086e4b4b6d1fbe63d8ce13247470adcbe3735de36d32fd7675e09"
+    },
+    {
+      "skill": "pylabrobot",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pylabrobot",
+      "files": 7,
+      "tree_sha256": "bab89adb355a2f570ddbcb7b70bba8283cb011f2c7d1d7e639a522c1f2e29d80"
+    },
+    {
+      "skill": "pymatgen",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pymatgen",
+      "files": 9,
+      "tree_sha256": "a129940b6048312a1aa71644425a38de3ddfe6ee5fa03a8630920f4526f12f16"
+    },
+    {
+      "skill": "pymc",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pymc",
+      "files": 8,
+      "tree_sha256": "86a398df4de11d54f68b97afb3e80cd24949b016e7d36a99f528113795590b7f"
+    },
+    {
+      "skill": "pymoo",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pymoo",
+      "files": 11,
+      "tree_sha256": "4429c8e11bab0353963572ac0a7f4a2b1efcdde58685ef21f611b948b4385955"
+    },
+    {
+      "skill": "pyopenms",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pyopenms",
+      "files": 7,
+      "tree_sha256": "b596fba36814dc462cc37283f5824d0ebce5107ee06bc0144e467453251e11c1"
+    },
+    {
+      "skill": "pysam",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pysam",
+      "files": 5,
+      "tree_sha256": "b4e716d8713a82b5736a5f9642c7b147e5b667090e91776669150b86e76a1611"
+    },
+    {
+      "skill": "pytdc",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pytdc",
+      "files": 7,
+      "tree_sha256": "3c9f6d6b87a3042f378f6f82d9427b8d462c4276e271a88f7da49dbf65b864d1"
+    },
+    {
+      "skill": "pytorch-lightning",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pytorch-lightning",
+      "files": 11,
+      "tree_sha256": "1ffbcc8155353dbe0f070298ecca456258983441d9f812ae988dc6663e6f67a8"
+    },
+    {
+      "skill": "pyzotero",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\pyzotero",
+      "files": 14,
+      "tree_sha256": "380cedaa7a7bb1b31ab819dc19717e368e327b88579a71c2be0ba2ed23736c26"
+    },
+    {
+      "skill": "qiskit",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\qiskit",
+      "files": 9,
+      "tree_sha256": "bdbdcb7124e9fd7e4d5a441498d9d8d6a5390f05a152ba7ed7a9e44b56fe37cf"
+    },
+    {
+      "skill": "qutip",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\qutip",
+      "files": 6,
+      "tree_sha256": "08ae82c59a72cb6019b936e2f726bd68fe2a54808b1c3009c0fe5e13530a789c"
+    },
+    {
+      "skill": "rdkit",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\rdkit",
+      "files": 7,
+      "tree_sha256": "ebf6d9b28d1fca0f71ae40a6605ad6b007b7677cb071e78f7ab5fb1acdbffed7"
+    },
+    {
+      "skill": "research-grants",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\research-grants",
+      "files": 14,
+      "tree_sha256": "c10d0528fecf150f6e751b72b0c1cdb1f9424e4447140e937557cebbbc86e94e"
+    },
+    {
+      "skill": "research-lookup",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\research-lookup",
+      "files": 8,
+      "tree_sha256": "c3be9cf83870179637613af79843ec81da2570cdd76658c33186458f291ddf0e"
+    },
+    {
+      "skill": "rowan",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\rowan",
+      "files": 1,
+      "tree_sha256": "fba4fb712592c420ddee34275df99067e1bcb5677f083a109894ceccc0288169"
+    },
+    {
+      "skill": "scanpy",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scanpy",
+      "files": 6,
+      "tree_sha256": "4cbc3ae24ad78ee4e555049ab574d70362bb9c15c8633967be65552f9dda00ea"
+    },
+    {
+      "skill": "scholar-evaluation",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scholar-evaluation",
+      "files": 5,
+      "tree_sha256": "592bf57ec100c30a0f3404877d544573f4148bca9c9b2607f6be0b06c2ff01fe"
+    },
+    {
+      "skill": "scientific-brainstorming",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scientific-brainstorming",
+      "files": 2,
+      "tree_sha256": "bf309d19a6ddd2b58b4dfce9cf51451ce22fe07e95ee982330cc50cd9b36c83a"
+    },
+    {
+      "skill": "scientific-critical-thinking",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scientific-critical-thinking",
+      "files": 9,
+      "tree_sha256": "949e09725d8b5d237c2f4f50eb71829d74029b209785b0f6af51d3d8bdd1324f"
+    },
+    {
+      "skill": "scientific-schematics",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scientific-schematics",
+      "files": 7,
+      "tree_sha256": "792f96d0bd61c4916702bc12532df5a64d3bd2e188cfa8b58587e9f4ad310395"
+    },
+    {
+      "skill": "scientific-slides",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scientific-slides",
+      "files": 19,
+      "tree_sha256": "fabfefb07290122328795e6fd16593770379fe8ff155f7ec3abd962b658240b9"
+    },
+    {
+      "skill": "scientific-visualization",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scientific-visualization",
+      "files": 11,
+      "tree_sha256": "8117c22ee3e05f5318e710b034daed5ede5dd68f8c8b3e8a583cf121b54a7908"
+    },
+    {
+      "skill": "scientific-writing",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scientific-writing",
+      "files": 13,
+      "tree_sha256": "885bc787b4390b9f28748e9a20e699f39cd44f688ef421ed7e2862dfe0199af8"
+    },
+    {
+      "skill": "scikit-bio",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scikit-bio",
+      "files": 2,
+      "tree_sha256": "c548fea12f84af5dca3e53cd7341778cc1663f3038b3e578d232fad7b56dd0ad"
+    },
+    {
+      "skill": "scikit-learn",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scikit-learn",
+      "files": 9,
+      "tree_sha256": "b4246ad92bc87ce71154e96ee33d765de0df7bb8bafe74c2cd92fe1e4e7d6521"
+    },
+    {
+      "skill": "scikit-survival",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scikit-survival",
+      "files": 7,
+      "tree_sha256": "d111a42281ff630572e0b43419651a89155e809d7adf9bc3a53b420d7d55d9fd"
+    },
+    {
+      "skill": "scvelo",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scvelo",
+      "files": 3,
+      "tree_sha256": "1905357a0e2686935b42ae3fc075dbbcafb635e801ea0dcab0762f159bc32943"
+    },
+    {
+      "skill": "scvi-tools",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\scvi-tools",
+      "files": 9,
+      "tree_sha256": "0d59fc0715b25b8c429a996523ee19e78e19a6e853106c65f81237d473c604c4"
+    },
+    {
+      "skill": "seaborn",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\seaborn",
+      "files": 4,
+      "tree_sha256": "a8dbbabc7b663524542af72465dca438928fa5f426619a3a2db3bcdc2bda9dce"
+    },
+    {
+      "skill": "shap",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\shap",
+      "files": 5,
+      "tree_sha256": "f4044db9e013080eea1c291aea99b9ace4484966cefd891eb2a9ebc6c7f69ede"
+    },
+    {
+      "skill": "simpy",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\simpy",
+      "files": 8,
+      "tree_sha256": "1bd8cc428b28f15d29d4e0a23dfe13b7ceb41757ad78f0f435172860c14c6154"
+    },
+    {
+      "skill": "stable-baselines3",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\stable-baselines3",
+      "files": 8,
+      "tree_sha256": "e7de69065a0ad639867a70db45e4b392c69845e550aad5c6345791a23857efe6"
+    },
+    {
+      "skill": "statistical-analysis",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\statistical-analysis",
+      "files": 7,
+      "tree_sha256": "85984f86380a908f90b78097812789918efd76dafc2e604d20caa200ef1bf1ce"
+    },
+    {
+      "skill": "statsmodels",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\statsmodels",
+      "files": 6,
+      "tree_sha256": "ff184c7ff7aa4819f51f8565b9451fe1ae01d75491a20c52fe784030de1d762d"
+    },
+    {
+      "skill": "sympy",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\sympy",
+      "files": 6,
+      "tree_sha256": "a51fe8393dd50764df7f81f8a49beca921ba8153578754345dbd82ef713d726e"
+    },
+    {
+      "skill": "tiledbvcf",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\tiledbvcf",
+      "files": 1,
+      "tree_sha256": "bc0f2a7c2fb44c61d9738a4d75688cd91404de7780473295e2ec5ebd8b95f337"
+    },
+    {
+      "skill": "timesfm-forecasting",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\timesfm-forecasting",
+      "files": 27,
+      "tree_sha256": "320efd61b695c50cbfac078c1d81c32353442dcee2e267982d320074062b5e99"
+    },
+    {
+      "skill": "torch-geometric",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\torch-geometric",
+      "files": 7,
+      "tree_sha256": "c0f975c7d8c6a25e2e9ed43858ca402fc1db5452125e7a1fe09d5781347a1975"
+    },
+    {
+      "skill": "torchdrug",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\torchdrug",
+      "files": 9,
+      "tree_sha256": "351dcd3bc65708f9724bc2893b6600e238753c4a6efe74f81a04e8199316682a"
+    },
+    {
+      "skill": "transformers",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\transformers",
+      "files": 6,
+      "tree_sha256": "1fe69cdc2b5789174d3d9e4f791a655ca9184c97357ba205539d8eea32e75509"
+    },
+    {
+      "skill": "treatment-plans",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\treatment-plans",
+      "files": 23,
+      "tree_sha256": "5c654bea010bd0a5eb6977662d278b1a48318b37d9b96599bfdd40e614549675"
+    },
+    {
+      "skill": "umap-learn",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\umap-learn",
+      "files": 2,
+      "tree_sha256": "583a597b4af24bd6621e03b9536a8d5d731fc6c5cfae2f03ed1cacf61900db3f"
+    },
+    {
+      "skill": "usfiscaldata",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\usfiscaldata",
+      "files": 9,
+      "tree_sha256": "463125b7de1ad557c9cdb40be6cafcb9364ea0bb465e27cc7ecb3646fe127a11"
+    },
+    {
+      "skill": "vaex",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\vaex",
+      "files": 7,
+      "tree_sha256": "179875acbb749d1e83cf187b9608fa3b7c8f658a53fdf4aed92cd5dbb57777e4"
+    },
+    {
+      "skill": "venue-templates",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\venue-templates",
+      "files": 27,
+      "tree_sha256": "7714528f941ce06e88b25ae19a5e1b6ca8daf1a89fb1711371bcc8d305baf9a3"
+    },
+    {
+      "skill": "what-if-oracle",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\what-if-oracle",
+      "files": 2,
+      "tree_sha256": "17141f93a8fc652e0445bde965a90e64e759efa4557217b0c48fade90d97c71c"
+    },
+    {
+      "skill": "xlsx",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\xlsx",
+      "files": 54,
+      "tree_sha256": "e5746a29b6ce55f37ca9d58d6685424bff58875d246652c3a7c5d2bf1cc03f69"
+    },
+    {
+      "skill": "zarr-python",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\zarr-python",
+      "files": 2,
+      "tree_sha256": "f329b3f8395e7f02872784ba811e03f271ee0cfea279c94c0688d57d5898612b"
+    }
+  ],
+  "skipped_identical": [
+    {
+      "skill": "citation-management",
+      "dest": "C:\\Users\\陈楚玲\\.codex\\skills\\citation-management",
+      "files": 16,
+      "tree_sha256": "a2c33e3aa60a35bed3aafa9c5bd54b89a9badf7fbcfbd1ef8e983f686a9ec12a"
+    }
+  ],
+  "backed_up_and_replaced": [],
+  "errors": []
+}

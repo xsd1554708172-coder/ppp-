@@ -1,0 +1,174 @@
+{
+  "checked_at_local": "2026-04-20 17:03:05",
+  "workspace": "C:\\Users\\陈楚玲\\Desktop\\ppp论文数据\\codex项目",
+  "components": {
+    "codex": {
+      "path": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.409.7971.0_x64__2p2nqsd0c76g0\\app\\resources\\codex.EXE",
+      "available": true,
+      "version_attempts": [
+        {
+          "cmd": [
+            "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.409.7971.0_x64__2p2nqsd0c76g0\\app\\resources\\codex.EXE",
+            "--version"
+          ],
+          "error": "PermissionError(13, '拒绝访问。', None, 5, None)"
+        },
+        {
+          "cmd": [
+            "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.409.7971.0_x64__2p2nqsd0c76g0\\app\\resources\\codex.EXE",
+            "version"
+          ],
+          "error": "PermissionError(13, '拒绝访问。', None, 5, None)"
+        }
+      ]
+    },
+    "node": {
+      "path": null,
+      "available": false
+    },
+    "npm": {
+      "path": null,
+      "available": false
+    },
+    "npx": {
+      "path": null,
+      "available": false
+    },
+    "gh": {
+      "path": null,
+      "available": false
+    },
+    "uv": {
+      "path": null,
+      "available": false
+    },
+    "python": {
+      "path": "D:\\python\\python.EXE",
+      "available": true,
+      "version_attempts": [
+        {
+          "cmd": [
+            "D:\\python\\python.EXE",
+            "--version"
+          ],
+          "returncode": 0,
+          "stdout": "Python 3.13.9",
+          "stderr": ""
+        }
+      ]
+    },
+    "git": {
+      "path": "C:\\Program Files\\Git\\cmd\\git.EXE",
+      "available": true,
+      "version_attempts": [
+        {
+          "cmd": [
+            "C:\\Program Files\\Git\\cmd\\git.EXE",
+            "--version"
+          ],
+          "returncode": 0,
+          "stdout": "git version 2.52.0.windows.1",
+          "stderr": ""
+        }
+      ]
+    },
+    "winget": {
+      "path": "C:\\Users\\陈楚玲\\AppData\\Local\\Microsoft\\WindowsApps\\winget.EXE",
+      "available": true,
+      "version_attempts": [
+        {
+          "cmd": [
+            "C:\\Users\\陈楚玲\\AppData\\Local\\Microsoft\\WindowsApps\\winget.EXE",
+            "--version"
+          ],
+          "returncode": 0,
+          "stdout": "v1.28.220",
+          "stderr": ""
+        }
+      ]
+    },
+    "choco": {
+      "path": null,
+      "available": false
+    },
+    "scoop": {
+      "path": null,
+      "available": false
+    }
+  },
+  "command_probes": {
+    "gh_skill_help": {
+      "available": false,
+      "reason": "gh not in PATH"
+    },
+    "npx_skills_help": {
+      "available": false,
+      "reason": "npx not in PATH"
+    },
+    "codex_help": {
+      "available": true,
+      "error": "PermissionError(13, '拒绝访问。', None, 5, None)"
+    }
+  },
+  "codex_home": {
+    "env": null,
+    "effective": "C:\\Users\\陈楚玲\\.codex",
+    "exists": true
+  },
+  "skills_dir": {
+    "path": "C:\\Users\\陈楚玲\\.codex\\skills",
+    "exists": true,
+    "user_skill_count_with_skill_md": 134,
+    "sample_user_skills": [
+      "adaptyv",
+      "aeon",
+      "anndata",
+      "arboreto",
+      "astropy",
+      "benchling-integration",
+      "bgpt-paper-search",
+      "biopython",
+      "bioservices",
+      "cellxgene-census",
+      "cirq",
+      "citation-management",
+      "clinical-decision-support",
+      "clinical-reports",
+      "cobrapy",
+      "consciousness-council",
+      "dask",
+      "database-lookup",
+      "datamol",
+      "deepchem",
+      "deeptools",
+      "depmap",
+      "dhdna-profiler",
+      "diffdock",
+      "dnanexus-integration",
+      "docx",
+      "esm",
+      "etetoolkit",
+      "exploratory-data-analysis",
+      "flowio"
+    ]
+  },
+  "scientific_agent_skills_zip": {
+    "path": "C:\\Users\\陈楚玲\\AppData\\Local\\Temp\\scientific-agent-skills-main.zip",
+    "exists": true,
+    "length_bytes": 30000981,
+    "sha256": "8248521ddf2266d053e80ea2748499669a6e4b15c5a233d16df57687a58b9af7",
+    "last_write_time": "2026-04-20 16:58:15"
+  },
+  "required_skill_presence": {
+    "scientific-writing": true,
+    "peer-review": true,
+    "citation-management": true,
+    "literature-review": true,
+    "statistical-analysis": true
+  },
+  "codex_skill_support_assessment": {
+    "builtin_skill_installer_present": true,
+    "standard_user_skill_dir_present": true,
+    "current_session_registry_note": "This running Codex session received its skill list before installation; restart/new Codex session is recommended for advertised skill discovery."
+  }
+}

@@ -1,0 +1,9 @@
+architect: true
+auto-accept-architect: true
+auto-commits: true
+attribute-co-authored-by: true
+auto-lint: true
+
+read:
+  - AI_RULES.txt
+  - AGENTS.md

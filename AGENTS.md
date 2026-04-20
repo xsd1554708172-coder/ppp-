@@ -51,13 +51,12 @@ Default objective: improve empirical credibility, manuscript consistency, and re
 - Prefer patch-style replacement files when direct manuscript editing is not performed.
 - Keep captions, notes, summary tables, and body text aligned.
 
-## Revision archive and Git sync
+## Revision archive discipline
 - Any new manuscript revision produced under `修改稿` must also be copied into the matching archive folder: `修改稿/v1修改稿留底` for `v1*` versions and `修改稿/v2修改稿留底` for `v2*` versions.
 - Archive filenames must stay short and use the pattern `<version-token>_<MMDD_HHMM>.<ext>`, for example `v1a_0419_0012.docx`.
-- Prefer one archive subfolder per version token (for example `修改稿/v1修改稿留底/v1a/`).
-- Before starting a new revision round, sync the local workspace from the configured GitHub remote if one is available.
-- After each completed revision task, update the local Git repository and push to the configured GitHub remote if one is available.
-- Use the existing sync scripts under `修改稿/scripts/` rather than ad hoc git command sequences when possible.
+- Prefer one archive subfolder per version token, for example `修改稿/v1修改稿留底/v1a/`.
+- Do not assume this repository has any automatic GitHub sync program or background updater.
+- If Git synchronization is needed in a future task, treat it as an explicit user action, not a default workflow step.
 
 ## Revision output conventions
 - Across `v1*`, `v2*`, and later revision chains, the latest manuscript authority is always the newest `.docx` file.
